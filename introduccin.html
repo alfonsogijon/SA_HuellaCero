@@ -5,7 +5,7 @@
 <link rel="stylesheet" type="text/css" href="content.css" />
 <link rel="stylesheet" type="text/css" href="nav.css" />
 <meta http-equiv="content-type" content="text/html;  charset=utf-8" />
-<title>Introducción | Huella cero </title>
+<title>Introducción | Huella Cero </title>
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
 <meta name="author" content="Ministerio de Educación y Formación Profesional" />
 <link rel="license" type="text/html" href="http://creativecommons.org/licenses/by-sa/4.0/" />
@@ -38,7 +38,7 @@ window.MathJax = {
 <body class="exe-web-site exe-search-bar" id="exe-node-70"><script type="text/javascript">document.body.className+=" js"</script>
 <div id="content">
 <p id="skipNav"><a href="#main" class="sr-av">Saltar la navegación</a></p>
-<header id="header" ><div id="headerContent">Huella cero</div></header>
+<header id="header" ><div id="headerContent">Huella Cero</div></header>
 <nav id="siteNav">
 <ul>
    <li><a href="index.html" class="daddy main-node">Huella Cero</a></li>
@@ -71,6 +71,223 @@ window.MathJax = {
 <div id="main-wrapper">
 <section id="main">
 <header id="nodeDecoration"><h1 id="nodeTitle">Introducción</h1></header>
+<article class="iDevice_wrapper QuizTestIdevice em_iDevice em_iDevice_question" id="id211">
+<script type="text/javascript">/*<![CDATA[*/
+var numQuestions = 2;
+var rawScore = 0;
+var actualScore = 0;
+var question0;
+var question1;
+var key0 = 2;
+var key1 = 2;
+function getAnswer()
+        {
+            for (var i=0; i < 3; i++)
+            {
+               if (document.getElementById("quizForm211").key0b211[i].checked)
+               {
+                  question0 = document.getElementById("quizForm211").key0b211[i].value;
+                  break;
+               }
+            }
+            
+            for (var i=0; i < 3; i++)
+            {
+               if (document.getElementById("quizForm211").key1b211[i].checked)
+               {
+                  question1 = document.getElementById("quizForm211").key1b211[i].value;
+                  break;
+               }
+            }
+            }
+        function calcRawScore(){
+
+            if (question0 == key0)
+            {
+               rawScore++;
+            }
+            if (question1 == key1)
+            {
+               rawScore++;
+            }
+        
+        }
+        
+        function calcScore2()
+        {
+            getAnswer();
+     
+            calcRawScore();
+            actualScore =  Math.round(rawScore / numQuestions * 100);
+            var id = "211";
+            document.getElementById("quizForm"+id).submitB.disabled = true;
+            var s = document.getElementById("quizFormScore"+id);
+                        var msg_str ="Su puntuación es %d%%";            msg_str = msg_str.replace("%d",actualScore).replace("%%","%");            if (s) { s.innerHTML = "<div class='feedback'><p>"+msg_str+"</p></div>"; } else { alert(msg_str); }
+           
+        }
+    /*]]>*/</script>
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">¿Cómo es tu huella de carbono?</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<form name="quizForm211" id="quizForm211" action="#" class="quiz-test-form">
+<input type="hidden" name="passrate" id="passrate-211" value="50" />
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion0b211" class="block iDevice_content">
+<p>Apago las luces cuando no estoy en la habitación</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b2111" class="sr-av"><a href="#answer-key0b2111">Opción 1</a></label><input type="radio" name="key0b211" id="key0b2111" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b2111">
+<div id="taoptionAnswer0q0b211" class="block iDevice_content">
+<p>Nunca</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b2112" class="sr-av"><a href="#answer-key0b2112">Opción 2</a></label><input type="radio" name="key0b211" id="key0b2112" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b2112">
+<div id="taoptionAnswer1q0b211" class="block iDevice_content">
+<p>A veces</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key0b2113" class="sr-av"><a href="#answer-key0b2113">Opción 3</a></label><input type="radio" name="key0b211" id="key0b2113" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key0b2113">
+<div id="taoptionAnswer2q0b211" class="block iDevice_content">
+<p>Siempre</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<section class="question">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion1b211" class="block iDevice_content">
+<p>Al usar la calefacción, la pongo a una temperatura<br />agradable, que no tenga que estar en manga corta</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b2111" class="sr-av"><a href="#answer-key1b2111">Opción 1</a></label><input type="radio" name="key1b211" id="key1b2111" value="0" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b2111">
+<div id="taoptionAnswer0q1b211" class="block iDevice_content">
+<p>Nunca</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b2112" class="sr-av"><a href="#answer-key1b2112">Opción 2</a></label><input type="radio" name="key1b211" id="key1b2112" value="1" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b2112">
+<div id="taoptionAnswer1q1b211" class="block iDevice_content">
+<p>A veces</p>
+</div>
+</div>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="key1b2113" class="sr-av"><a href="#answer-key1b2113">Opción 3</a></label><input type="radio" name="key1b211" id="key1b2113" value="2" />
+</p>
+<div class="iDevice_answer-content" id="answer-key1b2113">
+<div id="taoptionAnswer2q1b211" class="block iDevice_content">
+<p>Siempre</p>
+</div>
+</div>
+</section>
+</section>
+</section>
+<div class="block iDevice_buttons">
+<p><input type="submit" name="submitB" value="ENVIAR RESPUESTAS" /> <span class="js-hidden js-warning">Habilitar JavaScript</span></p>
+</div>
+<div id="quizFormScore211"></div>
+</form>
+</div>
+</div>
+</div>
+</article>
+<article class="iDevice_wrapper MultiSelectIdevice em_iDevice em_iDevice_question" id="id212">
+<div class="iDevice emphasis1" >
+<header class="iDevice_header"><h1 class="iDeviceTitle">Pregunta de Selección Múltiple</h1></header>
+<div class="iDevice_inner">
+<div class="iDevice_content_wrapper">
+<section class="question">
+<div id="actitity-212_120">
+<form name="multi-select-form-212_120" action="#" class="activity-form multi-select-form">
+<h1 class="js-sr-av">Pregunta</h1>
+<div id="taquestion212_120" class="block question iDevice_content">
+<p>Apago las luces cuando no estoy en la habitación</p>
+</div>
+<section class="iDevice_answers">
+<h1 class="js-sr-av">Respuestas</h1>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="op212_1200" class="sr-av"><a href="#answer-212_123">Opción 1</a></label><input type="checkbox" id="op212_1200" value="False" />
+</p>
+<div class="iDevice_answer-content" id="answer-212_123"><div id="taans212_123" class="block iDevice_content">
+<p>Nunca</p>
+</div>
+</div>
+<section class="iDevice_answer-feedback feedback" id="feedback-212_1200" style="display:none"></section>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="op212_1201" class="sr-av"><a href="#answer-212_281257">Opción 2</a></label><input type="checkbox" id="op212_1201" value="True" />
+</p>
+<div class="iDevice_answer-content" id="answer-212_281257"><div id="taans212_281257" class="block iDevice_content">
+<p>A veces</p>
+</div>
+</div>
+<section class="iDevice_answer-feedback feedback" id="feedback-212_1201" style="display:none"></section>
+</section>
+<section class="iDevice_answer">
+<p class="iDevice_answer-field js-required">
+<label for="op212_1202" class="sr-av"><a href="#answer-212_281259">Opción 3</a></label><input type="checkbox" id="op212_1202" value="True" />
+</p>
+<div class="iDevice_answer-content" id="answer-212_281259"><div id="taans212_281259" class="block iDevice_content">
+<p>Siempre</p>
+</div>
+</div>
+<section class="iDevice_answer-feedback feedback" id="feedback-212_1202" style="display:none"></section>
+</section>
+</section>
+<div class="block iDevice_buttons feedback-button js-required">
+<p>
+<input type="button" name="submitSelect" class="feedbackbutton multi-select-feedback-toggler" value="Mostrar retroalimentación" id="multi-select-feedback-toggler-3-212_120" /> 
+</p>
+</div>
+<section id="f212_120" class="js-hidden js-feedback">
+<h1 class="js-sr-av">Retroalimentación</h1>
+
+</section>
+</form>
+<section class="iDevice_solution feedback js-hidden">
+<h1>Solución</h1>
+<ol>
+<li><a href="#answer-212_123" class="wrong">Incorrecto</a></li>
+<li><a href="#answer-212_281257" class="right">Correcto</a></li>
+<li><a href="#answer-212_281259" class="right">Correcto</a></li>
+</ol>
+</section>
+</div>
+</section>
+</div>
+</div>
+</div>
+</article>
 <div id="packageLicense" class="cc cc-by-sa">
 <p><span>Obra publicada con</span> <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Licencia Creative Commons Reconocimiento Compartir igual 4.0</a></p>
 </div>
@@ -82,4 +299,4 @@ window.MathJax = {
 </nav>
 </div>
 </div>
-<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_intef_js.js"></script></body></html>
+<p id="made-with-eXe"><a href="https://exelearning.net/" target="_blank" rel="noopener"><span>Creado con eXeLearning<span> (Ventana nueva)</span></span></a></p><script type="text/javascript" src="_style_js.js"></script></body></html>
