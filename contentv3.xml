@@ -108,9 +108,9 @@ window.MathJax = {
   <string role="key" value="_name"></string>
   <unicode value="SA_HuellaCero"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="213"></int>
+  <int value="214"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="74"></int>
+  <int value="75"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
@@ -266,7 +266,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="pensando.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpzCMVDU/pensando.png"></string>
+                  <string value="/tmp/tmpCoUZ5Y/pensando.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="415f6b43bd8ffffec6055d39ea96df5e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -318,7 +318,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="certificacion_1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpzCMVDU/certificacion_1.png"></string>
+                  <string value="/tmp/tmpCoUZ5Y/certificacion_1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2e8b18574f2e27eb4d559206b741cf35"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -370,7 +370,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="certificacion_3.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpzCMVDU/certificacion_3.png"></string>
+                  <string value="/tmp/tmpCoUZ5Y/certificacion_3.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="b85d8b38415c8c364281d1cc9859a908"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -422,7 +422,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="certificacion_2.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpzCMVDU/certificacion_2.png"></string>
+                  <string value="/tmp/tmpCoUZ5Y/certificacion_2.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="65fa96b0953c66f83039d06ce4499e54"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -474,7 +474,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="huellas_sin_texto.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmpzCMVDU/huellas_sin_texto.png"></string>
+                  <string value="/tmp/tmpCoUZ5Y/huellas_sin_texto.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1512,10 +1512,220 @@ clicking the red X next to the option."></unicode>
          <instance class="exe.engine.node.Node" reference="32">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="1. Huella de Carbono"></unicode>
+           <unicode value="Reacción de Combustión"></unicode>
            <string role="key" value="idevices"></string>
            <list>
             <instance class="exe.engine.jsidevice.JsIdevice" reference="30">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="0"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="31">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="213_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="30"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;&lt;img src=&quot;resources/img0.png&quot; width=&quot;806&quot; height=&quot;341&quot; alt=&quot;Combustión&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot;https://phet.colorado.edu/sims/html/balancing-chemical-equations/latest/balancing-chemical-equations_es.html&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281270"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="213_213_2.0"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="33">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="30"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="img0.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="/tmp/tmpJcWi9v.eXe/previews/img0.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="45a81afd16c158700e015abe290555ab"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="31"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="31"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="1"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="32"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="213"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="32"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="33"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+           </list>
+           <string role="key" value="_id"></string>
+           <unicode value="74"></unicode>
+           <string role="key" value="_package"></string>
+           <reference key="2"></reference>
+           <string role="key" value="anchor_fields"></string>
+           <list></list>
+           <string role="key" value="exe.engine.node.Node.persistenceVersion"></string>
+           <int value="2"></int>
+           <string role="key" value="exportType"></string>
+           <string value="website"></string>
+           <string role="key" value="last_full_node_path"></string>
+           <string value="exe-node:Huella%20Cero:Actividades:Reacci%C3%B3n%20de%20Combusti%C3%B3n"></string>
+           <string role="key" value="parent"></string>
+           <reference key="29"></reference>
+           <string role="key" value="top_anchors_linked_from_fields"></string>
+           <list></list>
+           <string role="key" value="children"></string>
+           <list></list>
+          </dictionary>
+         </instance>
+         <instance class="exe.engine.node.Node" reference="36">
+          <dictionary>
+           <string role="key" value="_title"></string>
+           <unicode value="1. Huella de Carbono"></unicode>
+           <string role="key" value="idevices"></string>
+           <list>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="34">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Qué es la huella de carbono y por qué es vital reducirla para frenar el cambio climático?"></unicode>
@@ -1576,12 +1786,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="31">
+               <instance class="exe.engine.field.TextAreaField" reference="35">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="191_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="30"></reference>
+                 <reference key="34"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1606,7 +1816,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="31"></reference>
+                   <reference key="35"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1614,7 +1824,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1631,7 +1841,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -1642,7 +1852,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="33">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="¿Cómo calcular la huella de carbono personal?"></unicode>
@@ -1703,12 +1913,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="34">
+               <instance class="exe.engine.field.TextAreaField" reference="38">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="193_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="33"></reference>
+                 <reference key="37"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1733,7 +1943,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="34"></reference>
+                   <reference key="38"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1741,7 +1951,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1758,7 +1968,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -1769,7 +1979,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="35">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Huella de carbono en el hogar"></unicode>
@@ -1830,12 +2040,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="36">
+               <instance class="exe.engine.field.TextAreaField" reference="40">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="206_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="35"></reference>
+                 <reference key="39"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1860,7 +2070,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="36"></reference>
+                   <reference key="40"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1868,7 +2078,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -1885,7 +2095,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -1896,7 +2106,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="37">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="41">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Huella de carbono por transporte"></unicode>
@@ -1957,12 +2167,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="38">
+               <instance class="exe.engine.field.TextAreaField" reference="42">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="207_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="37"></reference>
+                 <reference key="41"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -1987,7 +2197,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="38"></reference>
+                   <reference key="42"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -1995,7 +2205,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2012,7 +2222,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2023,7 +2233,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="39">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Huella de carbono asociada al estilo de vida"></unicode>
@@ -2084,12 +2294,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="40">
+               <instance class="exe.engine.field.TextAreaField" reference="44">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="208_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="39"></reference>
+                 <reference key="43"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2114,7 +2324,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="40"></reference>
+                   <reference key="44"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2122,7 +2332,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2139,7 +2349,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2150,7 +2360,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="41">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="45">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Compara las fuentes de carbono"></unicode>
@@ -2211,12 +2421,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="42">
+               <instance class="exe.engine.field.TextAreaField" reference="46">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="194_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="41"></reference>
+                 <reference key="45"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2241,7 +2451,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="42"></reference>
+                   <reference key="46"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2249,7 +2459,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2266,7 +2476,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2277,7 +2487,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="43">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="47">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -2338,12 +2548,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="44">
+               <instance class="exe.engine.field.TextAreaField" reference="48">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="195_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="43"></reference>
+                 <reference key="47"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2368,7 +2578,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="44"></reference>
+                   <reference key="48"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2376,7 +2586,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2393,7 +2603,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2404,7 +2614,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="45">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="49">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -2465,12 +2675,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="46">
+               <instance class="exe.engine.field.TextAreaField" reference="50">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="196_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="45"></reference>
+                 <reference key="49"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2495,7 +2705,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="46"></reference>
+                   <reference key="50"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2503,7 +2713,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2520,7 +2730,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2531,7 +2741,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="47">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="51">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Prueba Hoja Geogebra"></unicode>
@@ -2592,12 +2802,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="48">
+               <instance class="exe.engine.field.TextAreaField" reference="52">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="197_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="47"></reference>
+                 <reference key="51"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2622,7 +2832,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="48"></reference>
+                   <reference key="52"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2630,7 +2840,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="32"></reference>
+                 <reference key="36"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2647,7 +2857,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="32"></reference>
+              <reference key="36"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2679,7 +2889,7 @@ clicking the red X next to the option."></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="75">
+         <instance class="exe.engine.node.Node" reference="79">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="2. Huella Hídrica"></unicode>
@@ -2705,7 +2915,7 @@ clicking the red X next to the option."></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="76">
+         <instance class="exe.engine.node.Node" reference="80">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="3. Estudio movilidad"></unicode>
@@ -2734,7 +2944,7 @@ clicking the red X next to the option."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="49">
+      <instance class="exe.engine.node.Node" reference="53">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Guía didáctica"></unicode>
@@ -2758,7 +2968,7 @@ clicking the red X next to the option."></unicode>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="71">
+         <instance class="exe.engine.node.Node" reference="75">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Datos identificativos"></unicode>
@@ -2777,14 +2987,14 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Datos%20identificativos"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="72">
+         <instance class="exe.engine.node.Node" reference="76">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Conexión curricular"></unicode>
@@ -2803,14 +3013,14 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Conexi%C3%B3n%20curricular"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="73">
+         <instance class="exe.engine.node.Node" reference="77">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Estrategias metodológicas"></unicode>
@@ -2829,14 +3039,14 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Estrategias%20metodol%C3%B3gicas"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="74">
+         <instance class="exe.engine.node.Node" reference="78">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Secuenciación"></unicode>
@@ -2855,20 +3065,20 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Secuenciaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="52">
+         <instance class="exe.engine.node.Node" reference="56">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="50">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="54">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Productos evaluables"></unicode>
@@ -2927,12 +3137,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="51">
+               <instance class="exe.engine.field.TextAreaField" reference="55">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="112_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="50"></reference>
+                 <reference key="54"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -2961,7 +3171,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="51"></reference>
+                   <reference key="55"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -2969,7 +3179,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="52"></reference>
+                 <reference key="56"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -2986,7 +3196,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="52"></reference>
+              <reference key="56"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -2997,7 +3207,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="53">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="57">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Técnicas de evaluación"></unicode>
@@ -3056,12 +3266,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="54">
+               <instance class="exe.engine.field.TextAreaField" reference="58">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="113_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="53"></reference>
+                 <reference key="57"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -3090,7 +3300,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="54"></reference>
+                   <reference key="58"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -3098,7 +3308,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="52"></reference>
+                 <reference key="56"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3115,7 +3325,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="52"></reference>
+              <reference key="56"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -3126,7 +3336,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="55">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="59">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Gestor de evaluación"></unicode>
@@ -3187,12 +3397,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="56">
+               <instance class="exe.engine.field.TextAreaField" reference="60">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="183_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="55"></reference>
+                 <reference key="59"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -3254,16 +3464,16 @@ clicking the red X next to the option."></unicode>
                       <string role="key" value="_id"></string>
                       <unicode value="185_183_2.72"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="57">
+                      <instance class="exe.engine.resource.Resource" reference="61">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="55"></reference>
+                        <reference key="59"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Hoja_2.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpzCMVDU/Hoja_2.png"></string>
+                        <string value="/tmp/tmpCoUZ5Y/Hoja_2.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="42366741c0d25fc953a2c7bc8b24d6bb"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3275,7 +3485,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="56"></reference>
+                      <reference key="60"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3306,16 +3516,16 @@ clicking the red X next to the option."></unicode>
                       <string role="key" value="_id"></string>
                       <unicode value="185_183_2.73"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="58">
+                      <instance class="exe.engine.resource.Resource" reference="62">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="55"></reference>
+                        <reference key="59"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Hoja_4.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpzCMVDU/Hoja_4.png"></string>
+                        <string value="/tmp/tmpCoUZ5Y/Hoja_4.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="f1cf9b8d9472911bec746390d1c5da38"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3327,7 +3537,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="56"></reference>
+                      <reference key="60"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3358,16 +3568,16 @@ clicking the red X next to the option."></unicode>
                       <string role="key" value="_id"></string>
                       <unicode value="185_183_2.74"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="59">
+                      <instance class="exe.engine.resource.Resource" reference="63">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="55"></reference>
+                        <reference key="59"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Hoja_3.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpzCMVDU/Hoja_3.png"></string>
+                        <string value="/tmp/tmpCoUZ5Y/Hoja_3.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="ef1880daf384e58e83dc52defaf1935a"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3379,7 +3589,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="56"></reference>
+                      <reference key="60"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3410,16 +3620,16 @@ clicking the red X next to the option."></unicode>
                       <string role="key" value="_id"></string>
                       <unicode value="185_183_2.75"></unicode>
                       <string role="key" value="_imageResource"></string>
-                      <instance class="exe.engine.resource.Resource" reference="60">
+                      <instance class="exe.engine.resource.Resource" reference="64">
                        <dictionary>
                         <string role="key" value="_idevice"></string>
-                        <reference key="55"></reference>
+                        <reference key="59"></reference>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
                         <string value="Hoja_1.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmpzCMVDU/Hoja_1.png"></string>
+                        <string value="/tmp/tmpCoUZ5Y/Hoja_1.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="4654fb53ae1de3aefb440e0786c087e4"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3431,7 +3641,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_parent"></string>
-                      <reference key="56"></reference>
+                      <reference key="60"></reference>
                       <string role="key" value="_thumbnailResource"></string>
                       <none></none>
                       <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
@@ -3442,7 +3652,7 @@ clicking the red X next to the option."></unicode>
                     </instance>
                    </list>
                    <string role="key" value="idevice"></string>
-                   <reference key="56"></reference>
+                   <reference key="60"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -3450,7 +3660,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="76"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="52"></reference>
+                 <reference key="56"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3467,23 +3677,23 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="52"></reference>
+              <reference key="56"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="57"></reference>
-               <reference key="58"></reference>
-               <reference key="59"></reference>
-               <reference key="60"></reference>
+               <reference key="61"></reference>
+               <reference key="62"></reference>
+               <reference key="63"></reference>
+               <reference key="64"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="61">
+            <instance class="exe.engine.fileattachidevice.FileAttachIdeviceInc" reference="65">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="File Attachments"></unicode>
@@ -3503,12 +3713,12 @@ clicking the red X next to the option."></unicode>
               <int value="2"></int>
               <string role="key" value="fileAttachmentFields"></string>
               <list>
-               <instance class="exe.engine.extendedfieldengine.FileField" reference="62">
+               <instance class="exe.engine.extendedfieldengine.FileField" reference="66">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <int value="279133"></int>
                  <string role="key" value="_idevice"></string>
-                 <reference key="61"></reference>
+                 <reference key="65"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value="File Field Help"></string>
                  <string role="key" value="_name"></string>
@@ -3525,7 +3735,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value="_id"></string>
                    <int value="279134"></int>
                    <string role="key" value="_idevice"></string>
-                   <reference key="62"></reference>
+                   <reference key="66"></reference>
                    <string role="key" value="_instruc"></string>
                    <string value=""></string>
                    <string role="key" value="_name"></string>
@@ -3539,16 +3749,16 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="fileInstruc"></string>
                  <string value="Upload a file"></string>
                  <string role="key" value="fileResource"></string>
-                 <instance class="exe.engine.resource.Resource" reference="64">
+                 <instance class="exe.engine.resource.Resource" reference="68">
                   <dictionary>
                    <string role="key" value="_idevice"></string>
-                   <reference key="61"></reference>
+                   <reference key="65"></reference>
                    <string role="key" value="_package"></string>
                    <reference key="2"></reference>
                    <string role="key" value="_storageName"></string>
                    <string value="Guia_Evaluacion_Profesor.xlsm"></string>
                    <string role="key" value="_userName"></string>
-                   <string value="/tmp/tmpzCMVDU/Guia_Evaluacion_Profesor.xlsm"></string>
+                   <string value="/tmp/tmpCoUZ5Y/Guia_Evaluacion_Profesor.xlsm"></string>
                    <string role="key" value="checksum"></string>
                    <string value="8d1fde3e381df325c146091053e51f98"></string>
                    <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3569,12 +3779,12 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="id"></string>
               <unicode value="186"></unicode>
               <string role="key" value="introHTML"></string>
-              <instance class="exe.engine.field.TextAreaField" reference="63">
+              <instance class="exe.engine.field.TextAreaField" reference="67">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="82"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="61"></reference>
+                <reference key="65"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Instructions"></string>
                 <string role="key" value="_name"></string>
@@ -3599,7 +3809,7 @@ clicking the red X next to the option."></unicode>
                   <string role="key" value=".listitems"></string>
                   <list></list>
                   <string role="key" value="idevice"></string>
-                  <reference key="63"></reference>
+                  <reference key="67"></reference>
                  </dictionary>
                 </instance>
                 <string role="key" value="intlinks_to_anchors"></string>
@@ -3607,7 +3817,7 @@ clicking the red X next to the option."></unicode>
                 <string role="key" value="nextImageId"></string>
                 <int value="0"></int>
                 <string role="key" value="parentNode"></string>
-                <reference key="52"></reference>
+                <reference key="56"></reference>
                </dictionary>
               </instance>
               <string role="key" value="lastIdevice"></string>
@@ -3617,14 +3827,14 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="52"></reference>
+              <reference key="56"></reference>
               <string role="key" value="showDesc"></string>
               <instance class="exe.engine.extendedfieldengine.ChoiceField">
                <dictionary>
                 <string role="key" value="_id"></string>
                 <int value="81"></int>
                 <string role="key" value="_idevice"></string>
-                <reference key="61"></reference>
+                <reference key="65"></reference>
                 <string role="key" value="_instruc"></string>
                 <string value="Show Description"></string>
                 <string role="key" value="_name"></string>
@@ -3654,7 +3864,7 @@ clicking the red X next to the option."></unicode>
               <bool value="0"></bool>
               <string role="key" value="userResources"></string>
               <list>
-               <reference key="64"></reference>
+               <reference key="68"></reference>
               </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
@@ -3674,20 +3884,20 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="67">
+         <instance class="exe.engine.node.Node" reference="71">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación de la situación de aprendizaje"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="65">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="69">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Indicadores de evaluación"></unicode>
@@ -3746,12 +3956,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="66">
+               <instance class="exe.engine.field.TextAreaField" reference="70">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="115_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="65"></reference>
+                 <reference key="69"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -3797,7 +4007,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="66"></reference>
+                   <reference key="70"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -3805,7 +4015,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="67"></reference>
+                 <reference key="71"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -3822,7 +4032,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="67"></reference>
+              <reference key="71"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -3847,7 +4057,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="last_full_node_path"></string>
            <string value="exe-node:Huella%20Cero:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20la%20situaci%C3%B3n%20de%20aprendizaje"></string>
            <string role="key" value="parent"></string>
-           <reference key="49"></reference>
+           <reference key="53"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -3857,13 +4067,13 @@ clicking the red X next to the option."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="70">
+      <instance class="exe.engine.node.Node" reference="74">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Créditos y descarga"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="68">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="72">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Descargar el fichero editable"></unicode>
@@ -3922,12 +4132,12 @@ clicking the red X next to the option."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="69">
+            <instance class="exe.engine.field.TextAreaField" reference="73">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="112_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="68"></reference>
+              <reference key="72"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -3978,7 +4188,7 @@ clicking the red X next to the option."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="69"></reference>
+                <reference key="73"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -3986,7 +4196,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="70"></reference>
+              <reference key="74"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4003,7 +4213,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="70"></reference>
+           <reference key="74"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4039,31 +4249,33 @@ clicking the red X next to the option."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="15"></unicode>
-   <reference key="67"></reference>
+   <reference key="71"></reference>
    <unicode role="key" value="28"></unicode>
-   <reference key="52"></reference>
+   <reference key="56"></reference>
    <unicode role="key" value="61"></unicode>
-   <reference key="49"></reference>
+   <reference key="53"></reference>
    <unicode role="key" value="64"></unicode>
    <reference key="29"></reference>
    <unicode role="key" value="66"></unicode>
-   <reference key="71"></reference>
+   <reference key="75"></reference>
    <unicode role="key" value="67"></unicode>
-   <reference key="72"></reference>
+   <reference key="76"></reference>
    <unicode role="key" value="68"></unicode>
-   <reference key="73"></reference>
+   <reference key="77"></reference>
    <unicode role="key" value="69"></unicode>
-   <reference key="74"></reference>
+   <reference key="78"></reference>
    <unicode role="key" value="70"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="71"></unicode>
-   <reference key="32"></reference>
+   <reference key="36"></reference>
    <unicode role="key" value="72"></unicode>
-   <reference key="75"></reference>
+   <reference key="79"></reference>
    <unicode role="key" value="73"></unicode>
-   <reference key="76"></reference>
+   <reference key="80"></reference>
+   <unicode role="key" value="74"></unicode>
+   <reference key="32"></reference>
    <unicode role="key" value="8"></unicode>
-   <reference key="70"></reference>
+   <reference key="74"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -4076,7 +4288,7 @@ clicking the red X next to the option."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="10"></reference>
+  <reference key="32"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6083,11 +6295,15 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="42366741c0d25fc953a2c7bc8b24d6bb"></string>
    <list>
-    <reference key="57"></reference>
+    <reference key="61"></reference>
+   </list>
+   <string role="key" value="45a81afd16c158700e015abe290555ab"></string>
+   <list>
+    <reference key="33"></reference>
    </list>
    <string role="key" value="4654fb53ae1de3aefb440e0786c087e4"></string>
    <list>
-    <reference key="60"></reference>
+    <reference key="64"></reference>
    </list>
    <string role="key" value="65fa96b0953c66f83039d06ce4499e54"></string>
    <list>
@@ -6095,7 +6311,7 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="8d1fde3e381df325c146091053e51f98"></string>
    <list>
-    <reference key="64"></reference>
+    <reference key="68"></reference>
    </list>
    <string role="key" value="b85d8b38415c8c364281d1cc9859a908"></string>
    <list>
@@ -6107,11 +6323,11 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="ef1880daf384e58e83dc52defaf1935a"></string>
    <list>
-    <reference key="59"></reference>
+    <reference key="63"></reference>
    </list>
    <string role="key" value="f1cf9b8d9472911bec746390d1c5da38"></string>
    <list>
-    <reference key="58"></reference>
+    <reference key="62"></reference>
    </list>
   </dictionary>
   <string role="key" value="root"></string>
