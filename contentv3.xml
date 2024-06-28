@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Sustainable Energetics"></unicode>
+  <unicode value="Reduce tu huella"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -108,18 +108,18 @@ window.MathJax = {
   <string role="key" value="_loadMathEngine"></string>
   <bool value="1"></bool>
   <string role="key" value="_name"></string>
-  <unicode value="SA_SustainableEnergetics.crashed1"></unicode>
+  <unicode value="SA_Reduce_tu_huella"></unicode>
   <string role="key" value="_nextIdeviceId"></string>
-  <int value="235"></int>
+  <int value="244"></int>
   <string role="key" value="_nextNodeId"></string>
-  <int value="85"></int>
+  <int value="89"></int>
   <string role="key" value="_nodeIdDict"></string>
   <dictionary>
    <unicode role="key" value="0"></unicode>
    <instance class="exe.engine.node.Node" reference="4">
     <dictionary>
      <string role="key" value="_title"></string>
-     <unicode value="Sustainable Energetics"></unicode>
+     <unicode value="Reduce tu huella"></unicode>
      <string role="key" value="idevices"></string>
      <list>
       <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
@@ -243,7 +243,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281399"></int>
+                  <int value="281467"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -257,7 +257,7 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.228"></unicode>
+                <unicode value="158_361_2.248"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -266,61 +266,9 @@ window.MathJax = {
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="pensando.png"></string>
-                  <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp0kDZRG/pensando.png"></string>
-                  <string role="key" value="checksum"></string>
-                  <string value="415f6b43bd8ffffec6055d39ea96df5e"></string>
-                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="warningMsg"></string>
-                  <string value=""></string>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_parent"></string>
-                <reference key="3"></reference>
-                <string role="key" value="_thumbnailResource"></string>
-                <none></none>
-                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="makeThumbnail"></string>
-                <bool value="0"></bool>
-               </dictionary>
-              </instance>
-              <instance class="exe.engine.galleryidevice.GalleryImage">
-               <dictionary>
-                <string role="key" value="_caption"></string>
-                <instance class="exe.engine.field.TextField">
-                 <dictionary>
-                  <string role="key" value="_id"></string>
-                  <int value="281403"></int>
-                  <string role="key" value="_idevice"></string>
-                  <none></none>
-                  <string role="key" value="_instruc"></string>
-                  <string value=""></string>
-                  <string role="key" value="_name"></string>
-                  <string value=""></string>
-                  <string role="key" value="content"></string>
-                  <string value=""></string>
-                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                  <int value="4"></int>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_id"></string>
-                <unicode value="158_361_2.229"></unicode>
-                <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="6">
-                 <dictionary>
-                  <string role="key" value="_idevice"></string>
-                  <reference key="1"></reference>
-                  <string role="key" value="_package"></string>
-                  <reference key="2"></reference>
-                  <string role="key" value="_storageName"></string>
                   <string value="certificacion_1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp0kDZRG/certificacion_1.png"></string>
+                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\certificacion_1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2e8b18574f2e27eb4d559206b741cf35"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -347,7 +295,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281405"></int>
+                  <int value="281468"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -361,61 +309,9 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.230"></unicode>
+                <unicode value="158_361_2.249"></unicode>
                 <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="7">
-                 <dictionary>
-                  <string role="key" value="_idevice"></string>
-                  <reference key="1"></reference>
-                  <string role="key" value="_package"></string>
-                  <reference key="2"></reference>
-                  <string role="key" value="_storageName"></string>
-                  <string value="certificacion_3.png"></string>
-                  <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp0kDZRG/certificacion_3.png"></string>
-                  <string role="key" value="checksum"></string>
-                  <string value="b85d8b38415c8c364281d1cc9859a908"></string>
-                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="warningMsg"></string>
-                  <string value=""></string>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_parent"></string>
-                <reference key="3"></reference>
-                <string role="key" value="_thumbnailResource"></string>
-                <none></none>
-                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="makeThumbnail"></string>
-                <bool value="0"></bool>
-               </dictionary>
-              </instance>
-              <instance class="exe.engine.galleryidevice.GalleryImage">
-               <dictionary>
-                <string role="key" value="_caption"></string>
-                <instance class="exe.engine.field.TextField">
-                 <dictionary>
-                  <string role="key" value="_id"></string>
-                  <int value="281406"></int>
-                  <string role="key" value="_idevice"></string>
-                  <none></none>
-                  <string role="key" value="_instruc"></string>
-                  <string value=""></string>
-                  <string role="key" value="_name"></string>
-                  <string value=""></string>
-                  <string role="key" value="content"></string>
-                  <string value=""></string>
-                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                  <int value="4"></int>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_id"></string>
-                <unicode value="158_361_2.231"></unicode>
-                <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="8">
+                <instance class="exe.engine.resource.Resource" reference="6">
                  <dictionary>
                   <string role="key" value="_idevice"></string>
                   <reference key="1"></reference>
@@ -424,7 +320,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="certificacion_2.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp0kDZRG/certificacion_2.png"></string>
+                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\certificacion_2.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="65fa96b0953c66f83039d06ce4499e54"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -451,7 +347,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281409"></int>
+                  <int value="281469"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -465,9 +361,61 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.232"></unicode>
+                <unicode value="158_361_2.250"></unicode>
                 <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="9">
+                <instance class="exe.engine.resource.Resource" reference="7">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="certificacion_3.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\certificacion_3.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="b85d8b38415c8c364281d1cc9859a908"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="281475"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="158_361_2.251"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
                   <string role="key" value="_idevice"></string>
                   <reference key="1"></reference>
@@ -476,9 +424,61 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="huellas_sin_texto.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="/tmp/tmp0kDZRG/huellas_sin_texto.png"></string>
+                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\huellas_sin_texto.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="281482"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="158_361_2.252"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="9">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
+                  <string value="pensando.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\pensando.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="415f6b43bd8ffffec6055d39ea96df5e"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -505,7 +505,7 @@ window.MathJax = {
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="233"></int>
+           <int value="253"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -553,7 +553,7 @@ window.MathJax = {
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Sustainable%20Energetics"></string>
+     <string value="exe-node:Reduce%20tu%20huella"></string>
      <string role="key" value="parent"></string>
      <none></none>
      <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -577,7 +577,7 @@ window.MathJax = {
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sustainable%20Energetics:Actividades"></string>
+        <string value="exe-node:Reduce%20tu%20huella:Actividades"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1502,7 +1502,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:Introducci%C3%B3n_old"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:Introducci%C3%B3n_old"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -1616,7 +1616,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281404"></int>
+                        <int value="281478"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -1630,7 +1630,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="213_213_2.13"></unicode>
+                      <unicode value="213_213_2.17"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="33">
                        <dictionary>
@@ -1641,7 +1641,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="img0.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/img0.png"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\img0.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="45a81afd16c158700e015abe290555ab"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1670,7 +1670,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="14"></int>
+                 <int value="18"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="32"></reference>
                 </dictionary>
@@ -1714,7 +1714,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:Reacci%C3%B3n%20de%20Combusti%C3%B3n_old"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:Reacci%C3%B3n%20de%20Combusti%C3%B3n_old"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2440,7 +2440,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;auto-geogebra auto-geogebra-jgfwqdkh auto-geogebra-width-2067 auto-geogebra-height-940 language-es showToolBarHelp showResetIcon enableShiftDragZoom auto-geogebra-scale-80 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-202452815447-120&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.geogebra.org/m/jgfwqdkh&quot; target=&quot;_blank&quot;&gt;https://www.geogebra.org/m/jgfwqdkh (Ventana nueva)&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;auto-geogebra-author js-hidden&quot;&gt;Alfonso%20Gij%F3n%20,https%3A//www.geogebra.org/m/cfr94kbm,Gr%E1fico%20Barras%20Huella%20CO2,1,Autor%EDa&lt;/div&gt;&lt;div class=&quot;auto-geogebra-messages-evaluation&quot;&gt;Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n&lt;/div&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;auto-geogebra auto-geogebra-jgfwqdkh auto-geogebra-width-1797 auto-geogebra-height-940 language-es showToolBarHelp showResetIcon enableShiftDragZoom auto-geogebra-scale-80 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-202452815447-120&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.geogebra.org/m/jgfwqdkh&quot; target=&quot;_blank&quot;&gt;https://www.geogebra.org/m/jgfwqdkh (Ventana nueva)&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;auto-geogebra-author js-hidden&quot;&gt;Alfonso%20Gij%F3n%20,https%3A//www.geogebra.org/m/jgfwqdkh,Gr%E1fico%20barras%20huella%20carbono%20por%20categor%EDas,1,Autor%EDa&lt;/div&gt;&lt;div class=&quot;auto-geogebra-messages-evaluation&quot;&gt;Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n&lt;/div&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2884,7 +2884,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:Huella%20de%20Carbono_old"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:Huella%20de%20Carbono_old"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3001,10 +3001,10 @@ clicking the red X next to the option."></unicode>
 &lt;/style&gt;
 &lt;details class=&quot;activity-details&quot;&gt;
 &lt;summary class=&quot;activity-summary&quot;&gt;Gases de Efecto Invernadero&lt;/summary&gt;
-&lt;p class=&quot;activity-content&quot;&gt;Investiga cuáles son los gases de efecto invernadero. Puedes encontrar información útil en &lt;a href=&quot;https://lanaturera.com/gases-efecto-invernadero-causantes-cambio-climatico/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este enlace&lt;/a&gt;. &lt;/p&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Investiga&lt;strong&gt; cuáles son los gases de efecto invernadero&lt;/strong&gt;. Puedes encontrar información útil en &lt;a href=&quot;https://lanaturera.com/gases-efecto-invernadero-causantes-cambio-climatico/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;este enlace&lt;/a&gt;. &lt;/p&gt;
 &lt;/details&gt;&lt;details class=&quot;activity-details&quot;&gt;
 &lt;summary class=&quot;activity-summary&quot;&gt;¿Qué reacción química sufren los combustibles fósiles para producir CO&lt;sub&gt;2&lt;/sub&gt;?&lt;/summary&gt;
-&lt;p class=&quot;activity-content&quot;&gt;Busca la reacción química que tiene lugar entre los combustibles fósiles (carbón, petróleo y gas natural) con el oxígeno para dar lugar dióxido de carbono. Puedes encontrar información sobre este tipo de reacciones &lt;a href=&quot;https://antoniofisicayquimica.jimdofree.com/4%C2%BA-eso/energ%C3%ADa-y-velocidad-de-reacci%C3%B3n/reacciones-de-combusti%C3%B3n/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Busca la &lt;strong&gt;reacción química&lt;/strong&gt; que tiene lugar entre los combustibles fósiles (carbón, petróleo y gas natural) con el oxígeno para dar lugar dióxido de carbono. Puedes encontrar información sobre este tipo de reacciones &lt;a href=&quot;https://antoniofisicayquimica.jimdofree.com/4%C2%BA-eso/energ%C3%ADa-y-velocidad-de-reacci%C3%B3n/reacciones-de-combusti%C3%B3n/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;aquí&lt;/a&gt;.&lt;/p&gt;
 &lt;/details&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
@@ -3025,7 +3025,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281398"></int>
+                        <int value="281472"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3039,7 +3039,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="222_223_2.4"></unicode>
+                      <unicode value="222_223_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="56">
                        <dictionary>
@@ -3050,7 +3050,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="efecto_invernadero.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/efecto_invernadero.png"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\efecto_invernadero.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="6fac9a2a3edad7f17bf7362818771648"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3079,7 +3079,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="9"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="55"></reference>
                 </dictionary>
@@ -3187,7 +3187,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Como sabrás, las emisiones globales de CO&lt;sub&gt;2&lt;/sub&gt; se han ido aumentando a lo largo de la historia, especialmente desde la segunda mitad del siglo pasado.&lt;/p&gt;
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Como sabrás, las &lt;strong&gt;emisiones globales de CO&lt;sub&gt;2&lt;/sub&gt; se han ido aumentando&lt;/strong&gt; a lo largo de la historia, especialmente desde la segunda mitad del siglo pasado, &lt;strong&gt;debido a la industria, los transportes y nuestro consumo energético&lt;/strong&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;resources/annual-co2-emissions-per-country.png&quot; alt=&quot;Emisiones globales de CO2&quot; width=&quot;578&quot; height=&quot;460&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Puedes consultar más datos de emisiones globales y por por países en la web de &lt;a href=&quot;https://ourworldindata.org/co2-emissions&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Our World in Data&lt;/a&gt;. &lt;/p&gt;
 &lt;style&gt;
@@ -3213,12 +3213,12 @@ clicking the red X next to the option."></unicode>
 &lt;details class=&quot;activity-details&quot;&gt;
 &lt;summary class=&quot;activity-summary&quot;&gt;Emisiones anuales de CO2 por persona&lt;/summary&gt;
 &lt;ul&gt;
-&lt;li class=&quot;activity-content&quot;&gt;Las emisiones de CO2 se miden en unidades de masa, es decir, en kg. Busca la cantidad de emisiones de España en el año 2022, y calcula cuántas toneladas fueron emitidas por habitante en ese mismo año, teniendo en cuenta la población media de nuestro país.&lt;/li&gt;
+&lt;li class=&quot;activity-content&quot;&gt;Las emisiones de CO2 se miden en unidades de masa, es decir, en kg. Busca la cantidad de&lt;strong&gt; emisiones de España en el año 2022&lt;/strong&gt;, y calcula cuántas toneladas fueron emitidas por habitante en ese mismo año, teniendo en cuenta la población media de nuestro país.&lt;/li&gt;
 &lt;li class=&quot;activity-content&quot;&gt;Puedes comprobar tu solución con la de &lt;a href=&quot;https://datosmacro.expansion.com/energia-y-medio-ambiente/emisiones-co2/espana&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;DatosMacro&lt;/a&gt;, que obtiene unas 5,48 toneladas de CO2 por persona.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/details&gt;&lt;details class=&quot;activity-details&quot;&gt;
 &lt;summary class=&quot;activity-summary&quot;&gt;¿Cuánto es una tonelada de CO2?&lt;/summary&gt;
-&lt;p class=&quot;activity-content&quot;&gt;Teniendo en cuenta que el peso molecular del CO2 es 44 g/mol, y que el volumen molar de un gas ideal es de 22,41 litros/mol, calcula qué volumen en litros ocuparía una tonelada de dicho gas en condiciones normales. Expresa el resultado en medidas de &quot;ancho &lt;em&gt;x&lt;/em&gt; largo &lt;em&gt;x&lt;/em&gt; profundidad&quot; de una piscina para una mejor visualización del resultado.&lt;/p&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Teniendo en cuenta que el peso molecular del CO2 es 44 g/mol, y que el volumen molar de un gas ideal es de 22,41 litros/mol, calcula qué volumen en litros ocuparía una tonelada de dicho gas en condiciones normales. Expresa el &lt;strong&gt;resultado en medidas de &quot;ancho &lt;em&gt;x&lt;/em&gt; largo &lt;em&gt;x&lt;/em&gt; profundidad&quot; de una piscina&lt;/strong&gt; para una mejor visualización del resultado.&lt;/p&gt;
 &lt;/details&gt;
 &lt;style&gt;
   .activity-details {
@@ -3259,7 +3259,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281402"></int>
+                        <int value="281465"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3273,7 +3273,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="223_224_2.4"></unicode>
+                      <unicode value="223_224_2.8"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="59">
                        <dictionary>
@@ -3284,7 +3284,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="annual-co2-emissions-per-country.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/annual-co2-emissions-per-country.png"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\annual-co2-emissions-per-country.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="3a861fb5ec0644c4a3d1ec880d4dcf95"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3313,7 +3313,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="9"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="55"></reference>
                 </dictionary>
@@ -3446,7 +3446,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281397"></int>
+                        <int value="281479"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3460,7 +3460,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="224_225_2.3"></unicode>
+                      <unicode value="224_225_2.11"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="62">
                        <dictionary>
@@ -3469,11 +3469,11 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="indice_aridez_Espa_C3_B1a2.jpg"></string>
+                        <string value="indice_aridez_Espa_C3_B1a1.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/indice_aridez_Espa_C3_B1a2.jpg"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\indice_aridez_Espa_C3_B1a1.jpg"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="d120842d8f550561881735caaa010727"></string>
+                        <string value="464632bb2ad3322f860670fb46416bd4"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -3498,7 +3498,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281407"></int>
+                        <int value="281480"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3512,7 +3512,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="224_225_2.4"></unicode>
+                      <unicode value="224_225_2.12"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="63">
                        <dictionary>
@@ -3521,11 +3521,11 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_package"></string>
                         <reference key="2"></reference>
                         <string role="key" value="_storageName"></string>
-                        <string value="indice_aridez_Espa_C3_B1a1.jpg"></string>
+                        <string value="indice_aridez_Espa_C3_B1a2.jpg"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/indice_aridez_Espa_C3_B1a1.jpg"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\indice_aridez_Espa_C3_B1a2.jpg"></string>
                         <string role="key" value="checksum"></string>
-                        <string value="464632bb2ad3322f860670fb46416bd4"></string>
+                        <string value="d120842d8f550561881735caaa010727"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                         <int value="2"></int>
                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -3552,7 +3552,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="5"></int>
+                 <int value="13"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="55"></reference>
                 </dictionary>
@@ -3682,7 +3682,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281400"></int>
+                        <int value="281474"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3696,7 +3696,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="225_226_2.10"></unicode>
+                      <unicode value="225_226_2.18"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="66">
                        <dictionary>
@@ -3707,7 +3707,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Glosario.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/Glosario.pdf"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\Glosario.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="5dbd2a64505968e91ae59cbace674f5c"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3734,7 +3734,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281408"></int>
+                        <int value="281477"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3748,7 +3748,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="225_226_2.11"></unicode>
+                      <unicode value="225_226_2.19"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="67">
                        <dictionary>
@@ -3759,7 +3759,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="Ideas_Previas.pdf"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/Ideas_Previas.pdf"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\Ideas_Previas.pdf"></string>
                         <string role="key" value="checksum"></string>
                         <string value="cb42e9b3ffbe80255d38a54a9968ff38"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3788,7 +3788,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="12"></int>
+                 <int value="20"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="55"></reference>
                 </dictionary>
@@ -3833,7 +3833,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3932,7 +3932,8 @@ clicking the red X next to the option."></unicode>
 &lt;li&gt;Elevar la cuota de&lt;strong&gt; renovables&lt;/strong&gt; en el consumo de energía final por encima del 32%.&lt;/li&gt;
 &lt;li&gt;Mejorar la &lt;strong&gt;eficiencia energética&lt;/strong&gt; en al menos un 32,5%.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Con este propósito, el Gobierno de España proporciona subvenciones a viviendas o conjuntos de estas (urbanizaciones) que cumplan estos objetivos. La subvención es mayor cuanto mayor es el porcentaje de mejora.&lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p&gt;Con este propósito, el Gobierno de España proporciona subvenciones a viviendas que cumplan estos requisitos. Las ayudas se aplican inmediatamente si el consumo energético de una vivienda se ve reducido en los 3 últimos meses. La subvención es mayor cuanto mayor es el porcentaje de mejora. Una vez concedida la ayuda, si el consumo de una vivienda vuelve a subir, la ayuda es eliminada.&lt;/p&gt;
+&lt;p&gt;Esta medida, ha despertado el&lt;strong&gt; interés de muchísimas familias por mejorar su sostenibilidad&lt;/strong&gt;, para lo que &lt;strong&gt;recurren a empresas expertas&lt;/strong&gt; en el tema.&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3952,7 +3953,7 @@ clicking the red X next to the option."></unicode>
                       <instance class="exe.engine.field.TextField">
                        <dictionary>
                         <string role="key" value="_id"></string>
-                        <int value="281401"></int>
+                        <int value="281481"></int>
                         <string role="key" value="_idevice"></string>
                         <none></none>
                         <string role="key" value="_instruc"></string>
@@ -3966,7 +3967,7 @@ clicking the red X next to the option."></unicode>
                        </dictionary>
                       </instance>
                       <string role="key" value="_id"></string>
-                      <unicode value="227_228_2.1"></unicode>
+                      <unicode value="227_228_2.5"></unicode>
                       <string role="key" value="_imageResource"></string>
                       <instance class="exe.engine.resource.Resource" reference="71">
                        <dictionary>
@@ -3977,7 +3978,7 @@ clicking the red X next to the option."></unicode>
                         <string role="key" value="_storageName"></string>
                         <string value="marco_estrategico_clima.png"></string>
                         <string role="key" value="_userName"></string>
-                        <string value="/tmp/tmp0kDZRG/marco_estrategico_clima.png"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\marco_estrategico_clima.png"></string>
                         <string role="key" value="checksum"></string>
                         <string value="fec20485f1434c25f4f891b3597d1cb9"></string>
                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -4006,7 +4007,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="intlinks_to_anchors"></string>
                  <dictionary></dictionary>
                  <string role="key" value="nextImageId"></string>
-                 <int value="2"></int>
+                 <int value="6"></int>
                  <string role="key" value="parentNode"></string>
                  <reference key="70"></reference>
                 </dictionary>
@@ -4118,7 +4119,7 @@ clicking the red X next to the option."></unicode>
 &lt;p&gt;Junto con el nombre, debéis &lt;strong style=&quot;font-size: 1.05em;&quot;&gt;diseñar un logo geométrico&lt;/strong&gt;&lt;span style=&quot;font-size: 1.05em;&quot;&gt; para la empresa. Podéis usar varias figuras geométricas (rectas, polígonos, cónicas, circunferencias, funciones...) y exportar el logo en formato jpg.&lt;/span&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;800&quot; height=&quot;600&quot; src=&quot; https://www.geogebra.org/classic/n9f98eg7&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
 &lt;p style=&quot;text-align: left;&quot;&gt;Si no se os ocurre nada, podéis inspiraros con algunos ejemplos, buscando &quot;logos geométricos&quot; en internet.&lt;/p&gt;
-&lt;p style=&quot;text-align: left;&quot;&gt;Una vez que tenéis listo el nombre y logo de la empresa, podéis ir discutiendo medidas que se os ocurran para reducir el consumo de energía. &lt;/p&gt;&lt;/div&gt;"></unicode>
+&lt;p style=&quot;text-align: left;&quot;&gt;Una vez que tenéis listo el nombre y logo de la empresa, podéis ir discutiendo &lt;strong&gt;medidas para reducir la emisión de GEI&lt;/strong&gt;. Si no se os ocurren muchas medidas, podéis buscar más en la web.  &lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4181,7 +4182,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:2.%20Funda%20tu%20empresa"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:2.%20Funda%20tu%20empresa"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4272,7 +4273,265 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La huella de carbono de una familia es la suma de los gases de efecto invernadero emitidos de forma directa o indirecta, expresada en unidades de masa dióxido de carbono. &lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La&lt;strong&gt; huella de carbono&lt;/strong&gt; de una persona es la &lt;strong&gt;suma de los gases de efecto invernadero&lt;/strong&gt; emitidos de forma directa o indirecta, expresada en unidades de masa dióxido de carbono. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/huella_carbono.png&quot; alt=&quot;Huella de Carbono&quot; width=&quot;500&quot; height=&quot;322&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;
+&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;Huella de carbono media en el planeta&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Busca la huella de carbono anual por habitante en el mundo entero, expresada en toneladas de CO2. ¿Es igual en todos los países o hay &lt;strong&gt;diferencias entre países&lt;/strong&gt;?&lt;/p&gt;
+&lt;/details&gt;&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;¿Cuánto CO&lt;sub&gt;2&lt;/sub&gt; generan las acciones cotidianas?&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Consulta en internet cuántos gramos o kilogramos de CO&lt;sub&gt;2 &lt;/sub&gt;generan algunas acciones cotidianas como ducharse, bañarse, lavarse las manos, fabricar un smartphone, uso de un smartphone durante un año, fabricar un coche, un viaje en coche de 100 km, o algunas otras acciones que se te ocurran. &lt;/p&gt;
+&lt;/details&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281476"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="230_231_2.4"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="77">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="74"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="huella_carbono.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\huella_carbono.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="1a1d3b5d67b04082c967a7cc31d8b3d2"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="75"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="75"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="5"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="76"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="230"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="76"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="77"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="78">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="¿Cómo calcular la huella de carbono?"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="79">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="234_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="78"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;La huella anual de carbono total se calcula como la suma de las emisiones que provocan todas las acciones de un individuo a lo largo del año. &lt;strong&gt;Cada acción tendrá asociada su coeficiente o factor de emisión&lt;/strong&gt; (expresado en unidades de masa de CO&lt;sub&gt;2&lt;/sub&gt;).&lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;border: 2px solid red; background-color: #ffe5b4; padding: 2px; font-size: 14pt;&quot;&gt; Huella de carbono \( = \) Dato actividad \( \times \) Factor emisión&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Por ejemplo, si una persona se ducha una vez al día, y sabemos que el factor de emisión de una ducha es unos 150 g de CO&lt;sub&gt;2&lt;/sub&gt;, su huella de carbono anual por ducharse es:&lt;/p&gt;
+&lt;p style=&quot;padding-left: 60px;&quot;&gt;\[ 365 \times 150\, \text{g de CO}_2= 54750 \,\text{g de CO}_2 = 54,75 \, \text{kg de CO}_2 \]&lt;/p&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;
+&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;Huella de carbono por consumo eléctrico&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Calcula la huella de carbono de una familia que ha consumido 3000 kWh de electricidad en un año. Considera un factor eléctrico de 0,2 kg de CO2/kWh consumido.&lt;/p&gt;
+&lt;/details&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4287,7 +4546,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="75"></reference>
+                   <reference key="79"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -4302,7 +4561,330 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="230"></unicode>
+              <unicode value="236"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="76"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="80">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Conoce a tu cliente"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="81">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="233_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="80"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Como estarás comprobando, la huella de carbono personal depende de la vida cotidiana de cada individuo. Por lo tanto, para que tu empresa pueda asesorar a un cliente a calcular y reducir su huella de carbono, primero &lt;strong&gt;necesitarás conocer los hábitos de tu cliente&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;En general, el cálculo de la huella de carbono puede dividirse en &lt;strong&gt;tres grandes bloques: hogar, transporte y estilo de vida&lt;/strong&gt;. En equipo debéis preparar una entrevista, cuestionario o algún método para conocer el comportamiento de vuestro cliente en estos tres bloques. &lt;/p&gt;
+&lt;p&gt;Para averiguar qué aspectos de tu cliente debes conocer, puedes consultar algunas&lt;strong&gt; calculadoras de la huella de carbono&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://calculator.carbonfootprint.com/calculator.aspx?lang=es&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Carbon Footprint&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://offset.climateneutralnow.org/footprintcalc&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;United Nations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://footprintcalculator.org/home/es&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Global Footprint Network&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;resources/Calculadora_huella_carbono.webp&quot; alt=&quot;Huella Carbono&quot; width=&quot;420&quot; height=&quot;447&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Una vez tengáis diseñada la entrevista/cuestionario a vuestro cliente, debéis entregarla al profesor, que jugará el papel de cliente y os dará toda la información que solicitéis. Recuerda preguntarle por los&lt;strong&gt; electrodomésticos&lt;/strong&gt; que utiliza y si dispone de&lt;strong&gt; espacio para colocar placas solares&lt;/strong&gt;, información que será útil en la siguiente actividad para mejorar la eficiencia energética. &lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281466"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="235_233_2.5"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="82">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="80"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="Calculadora_huella_carbono.webp"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\Calculadora_huella_carbono.webp"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="792d6f31e1203e2e909e84d4c3d68d9a"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="81"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="81"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="6"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="76"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="235"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="76"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="82"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Calcula la huella de carbono de tu cliente"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="84">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="235_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="83"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Una vez conoces el hogar y los hábitos de transporte y de vida del cliente, podéis calculas su huella de carbono sumando cada acción. Podéis utilizar un &lt;strong&gt;editor de hojas de cálculo&lt;/strong&gt; como LibreOffice Calc o Google Sheets, o cualquier otra herramienta informática para facilitaros el cálculo de la huella de carbono.&lt;/p&gt;
+&lt;p&gt;Consejos:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Recuerda clasificar las acciones en tres bloques (hogar, transporte, y estilo de vida).&lt;/li&gt;
+&lt;li&gt;Para el cálculo total de la huella de carbono, tened cuidado de no sumar acciones por duplicado. Por ejemplo, la huella de carbono de ver la tele o calentar agua para ducharse ya va incluida en el consumo energético del hogar.  &lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="84"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="76"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="237"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -4335,7 +4917,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:3.%20Huella%20de%20carbono"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:3.%20Huella%20de%20carbono"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4344,16 +4926,16 @@ clicking the red X next to the option."></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="79">
+         <instance class="exe.engine.node.Node" reference="87">
           <dictionary>
            <string role="key" value="_title"></string>
-           <unicode value="4. Eficiencia energética"></unicode>
+           <unicode value="4. Sostenibilidad energética"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="77">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="85">
              <dictionary>
               <string role="key" value="_title"></string>
-              <unicode value=""></unicode>
+              <unicode value="Hábitos sostenibles"></unicode>
               <string role="key" value="_attributes"></string>
               <list>
                <tuple>
@@ -4406,17 +4988,17 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="edit"></string>
               <bool value="0"></bool>
               <string role="key" value="emphasis"></string>
-              <int value="0"></int>
+              <int value="1"></int>
               <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="78">
+               <instance class="exe.engine.field.TextAreaField" reference="86">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="232_2"></unicode>
+                 <unicode value="263_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="77"></reference>
+                 <reference key="85"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -4426,8 +5008,8 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Posibilidad de colocar placas solares?&lt;/p&gt;
-&lt;p&gt;Posibilidad de sustituir electrodomésticos con consumo alto por otros más eficientes?&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p style=&quot;text-align: left;&quot;&gt;Te habrás dado cuenta de que la huella de carbono personal depende no sólo del consumo del hogar o de los transportes que se realicen, sino también del &lt;strong&gt;estilo de vida&lt;/strong&gt; (alimentación, reciclaje, ropa, etc.).&lt;strong&gt; Busca información sobre medidas cotidianas&lt;/strong&gt; que podrían tomarse para reducir nuestra huella ecológica e intenta aplicarlas a tu cliente, calculando cuántas emisiones ahorraría. &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;314&quot; src=&quot;https://www.youtube.com/embed/KTISErIurqk&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4442,7 +5024,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="78"></reference>
+                   <reference key="86"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -4450,14 +5032,14 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="79"></reference>
+                 <reference key="87"></reference>
                 </dictionary>
                </instance>
               </list>
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="231"></unicode>
+              <unicode value="240"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -4467,13 +5049,566 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="79"></reference>
+              <reference key="87"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
               <bool value="1"></bool>
               <string role="key" value="userResources"></string>
               <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="88">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Eficiencia energética"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="89">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="264_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="88"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Según el &lt;a href=&quot;https://www.idae.es/uploads/documentos/documentos_Informe_SPAHOUSEC_ACC_f68291a3.pdf&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Instituto para la Diversificación y ahorro de la Energía&lt;/a&gt; (IDAE), el consumo eléctrico en los hogares españoles se distribuye de la siguiente manera:&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/consumo_electrodomesticos.png&quot; alt=&quot;consumo electrodomésticos&quot; width=&quot;1131&quot; height=&quot;440&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Como puedes observar en la imagen izquierda, la calefacción es el servicio con mayor demanda de energía, seguido por los electrodomésticos, el agua caliente sanitaria (ACS) y la cocina. Puedes buscar medidas para &lt;strong&gt;ahorrar consumo energético en calefacción y ACS &lt;/strong&gt;y recomendarlas al cliente, aunque son difíciles de cuantificar. &lt;/p&gt;
+&lt;p&gt;En cuanto a los electrodomésticos, la imagen derecha nos muestra que los más consumen son frigoríficos, televisor y lavadora. En este caso, las &lt;strong&gt;etiquetas de eficiencia energética&lt;/strong&gt; pueden ayudarnos a calcular el ahorro en kWh que podemos hacer, y por tanto en emisiones de carbono. &lt;/p&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;img src=&quot;resources/etiqueta_energetica.png&quot; alt=&quot;etiqueta energética&quot; width=&quot;768&quot; height=&quot;512&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Según el electrodoméstico, los&lt;strong&gt; pictogramas informativos&lt;/strong&gt; serán diferentes, para facilitar la comparación entre electrodomésticos de un mismo tipo. Además de la &lt;strong&gt;escala energética&lt;/strong&gt; de la A a la G, el consumo energético nos da una estimación de los kWh que consume el electrodoméstico. Según el tipo de electrodoméstico, el &lt;strong&gt;consumo puedes estar expresado por año (frigorífico), por horas (televisión) o por ciclos de uso (lavadoras)&lt;/strong&gt;.&lt;/p&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;
+&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;¿Merece la pena cambiar de electrodomésticos?&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Con la información del tipo y tiempo de uso de los electrodomésticos del cliente, calcula cuánta energía ahorrarías sustituyendo los electrodomésticos por &lt;a href=&quot;https://eprel.ec.europa.eu/screen/home&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;otros más eficientes&lt;/a&gt; (lo más baratos posibles). Recuerda que si conoces la potencia de consumo de un electrodoméstico (kW) y su tiempo de uso (h) puedes calcular la cantidad de energía (kWh) con la fórmula \(  \text{Energía} = \text{Potencia} \times \text{Tiempo} \, \).  &lt;/p&gt;
+&lt;/details&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281470"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="241_264_2.2"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="90">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="88"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="consumo_electrodomesticos.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\consumo_electrodomesticos.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="461b2dab240786549473a2cd3d14c2ab"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="89"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281473"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="241_264_2.3"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="91">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="88"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="etiqueta_energetica.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\etiqueta_energetica.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="9740d276d0cf18e66da3bf95a671cb18"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="89"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="89"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="4"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="87"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="241"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="87"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="90"></reference>
+               <reference key="91"></reference>
+              </list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="92">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Instalación de placas solares"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="93">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="262_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="92"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Una vez que has reducido el consumo con hábitos sostenibles y con electrodomésticos eficientes, puedes reducir aún más la huella de carbono mediante &lt;strong&gt;energías más limpias&lt;/strong&gt;. Un método efectivo para reducir la huella de carbono es la instalación de &lt;strong&gt;paneles fotovoltaicos&lt;/strong&gt;. De esta forma, &lt;strong&gt;consumiendo la misma energía total, podemos tener una menor huella de carbono&lt;/strong&gt;. &lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/placas_solares_tejado.jpg&quot; alt=&quot;Placas Solares en tejado edificio&quot; width=&quot;600&quot; height=&quot;439&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;Para calcular la reducción de las emisiones en unidades de masa de CO&lt;sub&gt;2&lt;/sub&gt;, debes conocer el factor de emisión de la electricidad en España (\( f_\text{eléctrico} \)), el factor de emisión de las placas solares  (\( f_\text{solar} \)) y la energía solar generada (\( E_\text{solar} \)).&lt;/p&gt;
+&lt;p&gt;\[  \text{Emisiones ahorradas} = (f_\text{eléctrico}-f_\text{solar}) \times E_\text{solar} \]&lt;/p&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;
+&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;Factor de emisión de una placa fotovoltaica: \(  f_\text{solar} \, \).&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Una placa solar &lt;strong&gt;no tiene emisiones mientras está funcionando&lt;/strong&gt;, &lt;strong&gt;pero su&lt;/strong&gt; &lt;strong&gt;fabricación y montaje tiene una huella de carbono&lt;/strong&gt; de unos 500 kg de CO2. Considerando una vida útil de 30 años y unas condiciones de sol de Madrid, lo que produciría 16710 kWh en total, calcula el factor de emisión en gramos de CO&lt;sub&gt;2&lt;/sub&gt; / kWh. &lt;/p&gt;
+&lt;/details&gt;&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;Factor de emisión energía eléctrica en España: \(  f_\text{eléctrico} \, \).&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;La energía eléctrica que suministra la red pública española proviene de&lt;a href=&quot;https://www.smartgridsinfo.es/2024/03/26/sistema-electrico-espanol-supero-2023-todos-records-materia-renovables&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt; diferentes fuentes&lt;/a&gt;, que pueden ser renovables o no renovables. Esto hace que el factor de emisión sea una combinación de todas. Busca el valor del &lt;a href=&quot;https://canviclimatic.gencat.cat/es/actua/factors_demissio_associats_a_lenergia/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;factor de emisión del mix eléctrico&lt;/a&gt; español en 2023.&lt;/p&gt;
+&lt;p class=&quot;activity-content&quot;&gt;  &lt;img src=&quot;resources/distribucion_fuentes_energia_2023.png&quot; alt=&quot;Distribución fuentes energía 2023&quot; width=&quot;600&quot; height=&quot;315&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;/details&gt;&lt;details class=&quot;activity-details&quot;&gt;
+&lt;summary class=&quot;activity-summary&quot;&gt;Energía generada por paneles solares: \(  E_\text{solar} \, \).&lt;/summary&gt;
+&lt;p class=&quot;activity-content&quot;&gt;Para calcular la energía generada por las placas solares, necesitas saber cuánto genera una placa solar y cuántas placas solares se planean instalar, teniendo en cuenta su precio y el espacio disponible en la vivienda del cliente. &lt;/p&gt;
+&lt;/details&gt;
+&lt;style&gt;
+  .activity-details {
+    margin-bottom: 10px;
+  }
+  .activity-summary {
+    background-color: #f0f0f0;
+    padding: 10px;
+    cursor: pointer;
+    border: 1px solid #ccc;
+  }
+  .activity-summary:hover {
+    background-color: #e0e0e0;
+  }
+  .activity-content {
+    margin: 10px 0;
+    padding: 10px;
+    background-color: #fafafa;
+    border: 1px solid #ddd;
+  }
+&lt;/style&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281471"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="239_262_2.5"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="94">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="92"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="distribucion_fuentes_energia_2023.png"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\distribucion_fuentes_energia_2023.png"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="ca9083d57e89237ee654045c5bd495b4"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="93"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                     <dictionary>
+                      <string role="key" value="_caption"></string>
+                      <instance class="exe.engine.field.TextField">
+                       <dictionary>
+                        <string role="key" value="_id"></string>
+                        <int value="281483"></int>
+                        <string role="key" value="_idevice"></string>
+                        <none></none>
+                        <string role="key" value="_instruc"></string>
+                        <string value=""></string>
+                        <string role="key" value="_name"></string>
+                        <string value=""></string>
+                        <string role="key" value="content"></string>
+                        <string value=""></string>
+                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                        <int value="4"></int>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_id"></string>
+                      <unicode value="239_262_2.6"></unicode>
+                      <string role="key" value="_imageResource"></string>
+                      <instance class="exe.engine.resource.Resource" reference="95">
+                       <dictionary>
+                        <string role="key" value="_idevice"></string>
+                        <reference key="92"></reference>
+                        <string role="key" value="_package"></string>
+                        <reference key="2"></reference>
+                        <string role="key" value="_storageName"></string>
+                        <string value="placas_solares_tejado.jpg"></string>
+                        <string role="key" value="_userName"></string>
+                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmpxatezp\\placas_solares_tejado.jpg"></string>
+                        <string role="key" value="checksum"></string>
+                        <string value="23c9801caac6b9cb8f4fff814711b9af"></string>
+                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                        <int value="2"></int>
+                        <string role="key" value="warningMsg"></string>
+                        <string value=""></string>
+                       </dictionary>
+                      </instance>
+                      <string role="key" value="_parent"></string>
+                      <reference key="93"></reference>
+                      <string role="key" value="_thumbnailResource"></string>
+                      <none></none>
+                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                      <int value="3"></int>
+                      <string role="key" value="makeThumbnail"></string>
+                      <bool value="0"></bool>
+                     </dictionary>
+                    </instance>
+                   </list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="93"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="7"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="87"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="239"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="87"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list>
+               <reference key="94"></reference>
+               <reference key="95"></reference>
+              </list>
               <string role="key" value="version"></string>
               <int value="0"></int>
              </dictionary>
@@ -4490,7 +5625,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:4.%20Eficiencia%20energ%C3%A9tica"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4499,13 +5634,269 @@ clicking the red X next to the option."></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="82">
+         <instance class="exe.engine.node.Node" reference="98">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="5. Informe de resultados"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="80">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="96">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Puntuación obtenida del estudio "></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="97">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="301_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="96"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Comparando la huella de carbono anterior del cliente con la huella de carbono nueva que tendría si tomara las medidas propuestas por nuestro equipo, podemos calcular el &lt;strong&gt;porcentaje de reducción de la huella de carbono&lt;/strong&gt;. Además, teniendo en cuenta el dinero que costaría llevar a cabo las medidas (compra de placas, nuevos electrodomésticos, etc.), podemos calcular la siguiente puntuación:&lt;/p&gt;
+&lt;p&gt;\[ \text{Puntuación} = \frac{\text{porcentaje reducción huella de carbono}}{\text{presupuesto en miles de €}} \]&lt;/p&gt;
+&lt;p&gt;Por ejemplo, si conseguimos una reducción de la huella de carbono de un 30% con una inversión de 5000€, obtendremos una puntuación de 6. Esta puntuación de 6 significaría que por cada 1000€ que gastemos, reducimos un 6% la huella de carbono.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="97"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="98"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="242"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="98"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="99">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Compara las fuentes de carbono"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="geogebra-activity"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="GeoGebra Activity"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="GeoGebra"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="100">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="194_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="99"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;auto-geogebra auto-geogebra-jgfwqdkh auto-geogebra-width-1797 auto-geogebra-height-940 language-es showResetIcon enableShiftDragZoom showSuggestionButtons0 ShowAuthor0 auto-geogebra-scale-50 auto-geogebra-evaluation-id-0 auto-geogebra-ideviceid-202452815447-120&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.geogebra.org/m/jgfwqdkh&quot; target=&quot;_blank&quot;&gt;https://www.geogebra.org/m/jgfwqdkh (Ventana nueva)&lt;/a&gt;&lt;/p&gt;&lt;div class=&quot;auto-geogebra-author js-hidden&quot;&gt;Alfonso%20Gij%F3n%20,https%3A//www.geogebra.org/m/jgfwqdkh,Gr%E1fico%20barras%20huella%20carbono%20por%20categor%EDas,0,Autor%EDa&lt;/div&gt;&lt;div class=&quot;auto-geogebra-messages-evaluation&quot;&gt;Actividad%20no%20completada,Actividad%20superada.%20Puntuaci%F3n%3A%20%25s,Actividad%20no%20superada.%20Puntuaci%F3n%3A%20%25s,Guardar%20la%20puntuaci%F3n&lt;/div&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="100"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="98"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="260"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Interactive Activities"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="98"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="101">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -4566,12 +5957,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="81">
+               <instance class="exe.engine.field.TextAreaField" reference="102">
                 <dictionary>
                  <string role="key" value="_id"></string>
-                 <unicode value="233_2"></unicode>
+                 <unicode value="195_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="80"></reference>
+                 <reference key="101"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -4581,10 +5972,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="anchors_linked_from_fields"></string>
                  <dictionary></dictionary>
                  <string role="key" value="content_w_resourcePaths"></string>
-                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Comparación de huella de carbono actual con huella de carbono si tomara las medidas propuestas. &lt;/p&gt;
-&lt;p&gt;¿Cuánto dinero costaría tomar las medidas propuestas?&lt;/p&gt;
-&lt;p&gt;\[ \text{Puntuación} = \frac{\text{porcentaje reducción huella de carbono}}{\text{presupuesto en miles de €}} \]&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <unicode content="true" value=""></unicode>
                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                  <int value="4"></int>
                  <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -4599,7 +5987,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="81"></reference>
+                   <reference key="102"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -4607,14 +5995,14 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="82"></reference>
+                 <reference key="98"></reference>
                 </dictionary>
                </instance>
               </list>
               <string role="key" value="icon"></string>
               <unicode value=""></unicode>
               <string role="key" value="id"></string>
-              <unicode value="232"></unicode>
+              <unicode value="261"></unicode>
               <string role="key" value="ideviceCategory"></string>
               <unicode value="Text and Tasks"></unicode>
               <string role="key" value="lastIdevice"></string>
@@ -4624,7 +6012,134 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="82"></reference>
+              <reference key="98"></reference>
+              <string role="key" value="systemResources"></string>
+              <list></list>
+              <string role="key" value="undo"></string>
+              <bool value="1"></bool>
+              <string role="key" value="userResources"></string>
+              <list></list>
+              <string role="key" value="version"></string>
+              <int value="0"></int>
+             </dictionary>
+            </instance>
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="103">
+             <dictionary>
+              <string role="key" value="_title"></string>
+              <unicode value="Representaciones gráficas de los resultados"></unicode>
+              <string role="key" value="_attributes"></string>
+              <list>
+               <tuple>
+                <string value="title"></string>
+                <list>
+                 <string value="Title"></string>
+                 <int value="0"></int>
+                 <int value="0"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="category"></string>
+                <list>
+                 <string value="Category"></string>
+                 <int value="0"></int>
+                 <int value="1"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="css-class"></string>
+                <list>
+                 <string value="CSS class"></string>
+                 <int value="0"></int>
+                 <int value="2"></int>
+                </list>
+               </tuple>
+               <tuple>
+                <string value="icon"></string>
+                <list>
+                 <string value="Icon"></string>
+                 <int value="0"></int>
+                 <int value="3"></int>
+                </list>
+               </tuple>
+              </list>
+              <string role="key" value="_author"></string>
+              <string value=""></string>
+              <string role="key" value="_iDeviceDir"></string>
+              <string value="text"></string>
+              <string role="key" value="_purpose"></string>
+              <string value=""></string>
+              <string role="key" value="_tip"></string>
+              <string value=""></string>
+              <string role="key" value="_typeName"></string>
+              <unicode value="Text"></unicode>
+              <string role="key" value="_valid"></string>
+              <bool value="1"></bool>
+              <string role="key" value="class_"></string>
+              <unicode value="text"></unicode>
+              <string role="key" value="edit"></string>
+              <bool value="0"></bool>
+              <string role="key" value="emphasis"></string>
+              <int value="1"></int>
+              <string role="key" value="exe.engine.jsidevice.JsIdevice.persistenceVersion"></string>
+              <int value="1"></int>
+              <string role="key" value="fields"></string>
+              <list>
+               <instance class="exe.engine.field.TextAreaField" reference="104">
+                <dictionary>
+                 <string role="key" value="_id"></string>
+                 <unicode value="302_2"></unicode>
+                 <string role="key" value="_idevice"></string>
+                 <reference key="103"></reference>
+                 <string role="key" value="_instruc"></string>
+                 <string value=""></string>
+                 <string role="key" value="_name"></string>
+                 <string value=""></string>
+                 <string role="key" value="anchor_names"></string>
+                 <list></list>
+                 <string role="key" value="anchors_linked_from_fields"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="content_w_resourcePaths"></string>
+                 <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Además del dato numérico de la puntuación, los resultados pueden expresare con representaciones gráficas que faciliten su visualización.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                 <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                 <int value="4"></int>
+                 <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
+                 <int value="2"></int>
+                 <string role="key" value="exe.engine.field.TextAreaField.persistenceVersion"></string>
+                 <int value="3"></int>
+                 <string role="key" value="htmlTag"></string>
+                 <string value="div"></string>
+                 <string role="key" value="images"></string>
+                 <instance class="exe.engine.galleryidevice.GalleryImages">
+                  <dictionary>
+                   <string role="key" value=".listitems"></string>
+                   <list></list>
+                   <string role="key" value="idevice"></string>
+                   <reference key="104"></reference>
+                  </dictionary>
+                 </instance>
+                 <string role="key" value="intlinks_to_anchors"></string>
+                 <dictionary></dictionary>
+                 <string role="key" value="nextImageId"></string>
+                 <int value="0"></int>
+                 <string role="key" value="parentNode"></string>
+                 <reference key="98"></reference>
+                </dictionary>
+               </instance>
+              </list>
+              <string role="key" value="icon"></string>
+              <unicode value=""></unicode>
+              <string role="key" value="id"></string>
+              <unicode value="243"></unicode>
+              <string role="key" value="ideviceCategory"></string>
+              <unicode value="Text and Tasks"></unicode>
+              <string role="key" value="lastIdevice"></string>
+              <bool value="0"></bool>
+              <string role="key" value="nextFieldId"></string>
+              <int value="3"></int>
+              <string role="key" value="originalicon"></string>
+              <string value=""></string>
+              <string role="key" value="parentNode"></string>
+              <reference key="98"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -4637,7 +6152,7 @@ clicking the red X next to the option."></unicode>
             </instance>
            </list>
            <string role="key" value="_id"></string>
-           <unicode value="83"></unicode>
+           <unicode value="88"></unicode>
            <string role="key" value="_package"></string>
            <reference key="2"></reference>
            <string role="key" value="anchor_fields"></string>
@@ -4647,7 +6162,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:5.%20Informe%20de%20resultados"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:5.%20Informe%20de%20resultados"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4656,7 +6171,7 @@ clicking the red X next to the option."></unicode>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="107">
+         <instance class="exe.engine.node.Node" reference="129">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="6. Presentación de resultados"></unicode>
@@ -4673,7 +6188,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Actividades:6.%20Presentaci%C3%B3n%20de%20resultados"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Actividades:6.%20Presentaci%C3%B3n%20de%20resultados"></string>
            <string role="key" value="parent"></string>
            <reference key="29"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4685,13 +6200,13 @@ clicking the red X next to the option."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="85">
+      <instance class="exe.engine.node.Node" reference="107">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Guía didáctica"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="83">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="105">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value=""></unicode>
@@ -4752,12 +6267,12 @@ clicking the red X next to the option."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="84">
+            <instance class="exe.engine.field.TextAreaField" reference="106">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="225_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="83"></reference>
+              <reference key="105"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -4784,7 +6299,7 @@ clicking the red X next to the option."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="84"></reference>
+                <reference key="106"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -4792,7 +6307,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="85"></reference>
+              <reference key="107"></reference>
              </dictionary>
             </instance>
            </list>
@@ -4809,7 +6324,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -4832,20 +6347,20 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica"></string>
+        <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
         <list></list>
         <string role="key" value="children"></string>
         <list>
-         <instance class="exe.engine.node.Node" reference="88">
+         <instance class="exe.engine.node.Node" reference="110">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Datos identificativos"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="86">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="108">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Datos identificativos de la situación de aprendizaje"></unicode>
@@ -4906,12 +6421,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="87">
+               <instance class="exe.engine.field.TextAreaField" reference="109">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="214_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="86"></reference>
+                 <reference key="108"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -4946,7 +6461,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="87"></reference>
+                   <reference key="109"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -4954,7 +6469,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="88"></reference>
+                 <reference key="110"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -4971,7 +6486,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="88"></reference>
+              <reference key="110"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -4994,22 +6509,22 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Datos%20identificativos"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Datos%20identificativos"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="91">
+         <instance class="exe.engine.node.Node" reference="113">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Secuenciación"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="89">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="111">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Distribución temporal de las 9 sesiones"></unicode>
@@ -5068,12 +6583,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="90">
+               <instance class="exe.engine.field.TextAreaField" reference="112">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="126_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="89"></reference>
+                 <reference key="111"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5115,7 +6630,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="90"></reference>
+                   <reference key="112"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5123,7 +6638,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="91"></reference>
+                 <reference key="113"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5140,7 +6655,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="91"></reference>
+              <reference key="113"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5163,22 +6678,22 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Secuenciaci%C3%B3n"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Secuenciaci%C3%B3n"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="94">
+         <instance class="exe.engine.node.Node" reference="116">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Conexión curricular"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="92">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="114">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Vinculación con el currículo"></unicode>
@@ -5237,12 +6752,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="93">
+               <instance class="exe.engine.field.TextAreaField" reference="115">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="113_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="92"></reference>
+                 <reference key="114"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5312,7 +6827,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="93"></reference>
+                   <reference key="115"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5320,7 +6835,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="94"></reference>
+                 <reference key="116"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5337,7 +6852,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="94"></reference>
+              <reference key="116"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5348,7 +6863,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="95">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="117">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Contribución al perfil de salida"></unicode>
@@ -5407,12 +6922,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="96">
+               <instance class="exe.engine.field.TextAreaField" reference="118">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="126_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="95"></reference>
+                 <reference key="117"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5460,7 +6975,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="96"></reference>
+                   <reference key="118"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5468,7 +6983,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="94"></reference>
+                 <reference key="116"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5485,7 +7000,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="94"></reference>
+              <reference key="116"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5496,7 +7011,7 @@ clicking the red X next to the option."></unicode>
               <int value="0"></int>
              </dictionary>
             </instance>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="97">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="119">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value="Contribución a los objetivos de etapa"></unicode>
@@ -5555,12 +7070,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="98">
+               <instance class="exe.engine.field.TextAreaField" reference="120">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="127_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="97"></reference>
+                 <reference key="119"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5591,7 +7106,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="98"></reference>
+                   <reference key="120"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5599,7 +7114,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="94"></reference>
+                 <reference key="116"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5616,7 +7131,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="94"></reference>
+              <reference key="116"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5639,22 +7154,22 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Conexi%C3%B3n%20curricular"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Conexi%C3%B3n%20curricular"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="101">
+         <instance class="exe.engine.node.Node" reference="123">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Estrategias metodológicas"></unicode>
            <string role="key" value="idevices"></string>
            <list>
-            <instance class="exe.engine.jsidevice.JsIdevice" reference="99">
+            <instance class="exe.engine.jsidevice.JsIdevice" reference="121">
              <dictionary>
               <string role="key" value="_title"></string>
               <unicode value=""></unicode>
@@ -5715,12 +7230,12 @@ clicking the red X next to the option."></unicode>
               <int value="1"></int>
               <string role="key" value="fields"></string>
               <list>
-               <instance class="exe.engine.field.TextAreaField" reference="100">
+               <instance class="exe.engine.field.TextAreaField" reference="122">
                 <dictionary>
                  <string role="key" value="_id"></string>
                  <unicode value="222_2"></unicode>
                  <string role="key" value="_idevice"></string>
-                 <reference key="99"></reference>
+                 <reference key="121"></reference>
                  <string role="key" value="_instruc"></string>
                  <string value=""></string>
                  <string role="key" value="_name"></string>
@@ -5745,7 +7260,7 @@ clicking the red X next to the option."></unicode>
                    <string role="key" value=".listitems"></string>
                    <list></list>
                    <string role="key" value="idevice"></string>
-                   <reference key="100"></reference>
+                   <reference key="122"></reference>
                   </dictionary>
                  </instance>
                  <string role="key" value="intlinks_to_anchors"></string>
@@ -5753,7 +7268,7 @@ clicking the red X next to the option."></unicode>
                  <string role="key" value="nextImageId"></string>
                  <int value="0"></int>
                  <string role="key" value="parentNode"></string>
-                 <reference key="101"></reference>
+                 <reference key="123"></reference>
                 </dictionary>
                </instance>
               </list>
@@ -5770,7 +7285,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="originalicon"></string>
               <string value=""></string>
               <string role="key" value="parentNode"></string>
-              <reference key="101"></reference>
+              <reference key="123"></reference>
               <string role="key" value="systemResources"></string>
               <list></list>
               <string role="key" value="undo"></string>
@@ -5793,16 +7308,16 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Estrategias%20metodol%C3%B3gicas"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Estrategias%20metodol%C3%B3gicas"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="106">
+         <instance class="exe.engine.node.Node" reference="128">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación de los aprendizajes"></unicode>
@@ -5819,16 +7334,16 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
            <list></list>
           </dictionary>
          </instance>
-         <instance class="exe.engine.node.Node" reference="105">
+         <instance class="exe.engine.node.Node" reference="127">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Evaluación de la situación de aprendizaje"></unicode>
@@ -5845,9 +7360,9 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="exportType"></string>
            <string value="website"></string>
            <string role="key" value="last_full_node_path"></string>
-           <string value="exe-node:Sustainable%20Energetics:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20la%20situaci%C3%B3n%20de%20aprendizaje"></string>
+           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20la%20situaci%C3%B3n%20de%20aprendizaje"></string>
            <string role="key" value="parent"></string>
-           <reference key="85"></reference>
+           <reference key="107"></reference>
            <string role="key" value="top_anchors_linked_from_fields"></string>
            <list></list>
            <string role="key" value="children"></string>
@@ -5857,13 +7372,13 @@ clicking the red X next to the option."></unicode>
         </list>
        </dictionary>
       </instance>
-      <instance class="exe.engine.node.Node" reference="104">
+      <instance class="exe.engine.node.Node" reference="126">
        <dictionary>
         <string role="key" value="_title"></string>
         <unicode value="Créditos y descarga"></unicode>
         <string role="key" value="idevices"></string>
         <list>
-         <instance class="exe.engine.jsidevice.JsIdevice" reference="102">
+         <instance class="exe.engine.jsidevice.JsIdevice" reference="124">
           <dictionary>
            <string role="key" value="_title"></string>
            <unicode value="Descargar el fichero editable"></unicode>
@@ -5922,12 +7437,12 @@ clicking the red X next to the option."></unicode>
            <int value="1"></int>
            <string role="key" value="fields"></string>
            <list>
-            <instance class="exe.engine.field.TextAreaField" reference="103">
+            <instance class="exe.engine.field.TextAreaField" reference="125">
              <dictionary>
               <string role="key" value="_id"></string>
               <unicode value="112_2"></unicode>
               <string role="key" value="_idevice"></string>
-              <reference key="102"></reference>
+              <reference key="124"></reference>
               <string role="key" value="_instruc"></string>
               <string value=""></string>
               <string role="key" value="_name"></string>
@@ -5978,7 +7493,7 @@ clicking the red X next to the option."></unicode>
                 <string role="key" value=".listitems"></string>
                 <list></list>
                 <string role="key" value="idevice"></string>
-                <reference key="103"></reference>
+                <reference key="125"></reference>
                </dictionary>
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
@@ -5986,7 +7501,7 @@ clicking the red X next to the option."></unicode>
               <string role="key" value="nextImageId"></string>
               <int value="0"></int>
               <string role="key" value="parentNode"></string>
-              <reference key="104"></reference>
+              <reference key="126"></reference>
              </dictionary>
             </instance>
            </list>
@@ -6003,7 +7518,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="originalicon"></string>
            <string value=""></string>
            <string role="key" value="parentNode"></string>
-           <reference key="104"></reference>
+           <reference key="126"></reference>
            <string role="key" value="systemResources"></string>
            <list></list>
            <string role="key" value="undo"></string>
@@ -6026,7 +7541,7 @@ clicking the red X next to the option."></unicode>
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Sustainable%20Energetics:Cr%C3%A9ditos%20y%20descarga"></string>
+        <string value="exe-node:Reduce%20tu%20huella:Cr%C3%A9ditos%20y%20descarga"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -6039,15 +7554,15 @@ clicking the red X next to the option."></unicode>
     </dictionary>
    </instance>
    <unicode role="key" value="15"></unicode>
-   <reference key="105"></reference>
+   <reference key="127"></reference>
    <unicode role="key" value="61"></unicode>
-   <reference key="85"></reference>
+   <reference key="107"></reference>
    <unicode role="key" value="64"></unicode>
    <reference key="29"></reference>
    <unicode role="key" value="66"></unicode>
-   <reference key="88"></reference>
+   <reference key="110"></reference>
    <unicode role="key" value="68"></unicode>
-   <reference key="101"></reference>
+   <reference key="123"></reference>
    <unicode role="key" value="70"></unicode>
    <reference key="10"></reference>
    <unicode role="key" value="71"></unicode>
@@ -6055,25 +7570,25 @@ clicking the red X next to the option."></unicode>
    <unicode role="key" value="74"></unicode>
    <reference key="32"></reference>
    <unicode role="key" value="76"></unicode>
-   <reference key="94"></reference>
+   <reference key="116"></reference>
    <unicode role="key" value="77"></unicode>
-   <reference key="91"></reference>
+   <reference key="113"></reference>
    <unicode role="key" value="78"></unicode>
-   <reference key="106"></reference>
+   <reference key="128"></reference>
    <unicode role="key" value="79"></unicode>
    <reference key="55"></reference>
    <unicode role="key" value="8"></unicode>
-   <reference key="104"></reference>
+   <reference key="126"></reference>
    <unicode role="key" value="80"></unicode>
    <reference key="70"></reference>
    <unicode role="key" value="81"></unicode>
    <reference key="76"></reference>
    <unicode role="key" value="82"></unicode>
-   <reference key="79"></reference>
-   <unicode role="key" value="83"></unicode>
-   <reference key="82"></reference>
+   <reference key="87"></reference>
    <unicode role="key" value="84"></unicode>
-   <reference key="107"></reference>
+   <reference key="129"></reference>
+   <unicode role="key" value="88"></unicode>
+   <reference key="98"></reference>
   </dictionary>
   <string role="key" value="_objectives"></string>
   <unicode value=""></unicode>
@@ -6086,7 +7601,7 @@ clicking the red X next to the option."></unicode>
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="82"></reference>
+  <reference key="98"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -6117,7 +7632,7 @@ clicking the red X next to the option."></unicode>
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Sustainable Energetics"></unicode>
+    <unicode value="Reduce tu huella"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -6403,7 +7918,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Sustainable Energetics"></string>
+           <string value="Reduce tu huella"></string>
           </dictionary>
          </instance>
         </list>
@@ -7486,7 +9001,7 @@ clicking the red X next to the option."></unicode>
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Sustainable Energetics"></string>
+           <string value="Reduce tu huella"></string>
           </dictionary>
          </instance>
         </list>
@@ -8083,9 +9598,17 @@ clicking the red X next to the option."></unicode>
   <string value="2.9"></string>
   <string role="key" value="resources"></string>
   <dictionary>
+   <string role="key" value="1a1d3b5d67b04082c967a7cc31d8b3d2"></string>
+   <list>
+    <reference key="77"></reference>
+   </list>
+   <string role="key" value="23c9801caac6b9cb8f4fff814711b9af"></string>
+   <list>
+    <reference key="95"></reference>
+   </list>
    <string role="key" value="2e8b18574f2e27eb4d559206b741cf35"></string>
    <list>
-    <reference key="6"></reference>
+    <reference key="5"></reference>
    </list>
    <string role="key" value="3a861fb5ec0644c4a3d1ec880d4dcf95"></string>
    <list>
@@ -8093,15 +9616,19 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="415f6b43bd8ffffec6055d39ea96df5e"></string>
    <list>
-    <reference key="5"></reference>
+    <reference key="9"></reference>
    </list>
    <string role="key" value="45a81afd16c158700e015abe290555ab"></string>
    <list>
     <reference key="33"></reference>
    </list>
+   <string role="key" value="461b2dab240786549473a2cd3d14c2ab"></string>
+   <list>
+    <reference key="90"></reference>
+   </list>
    <string role="key" value="464632bb2ad3322f860670fb46416bd4"></string>
    <list>
-    <reference key="63"></reference>
+    <reference key="62"></reference>
    </list>
    <string role="key" value="5dbd2a64505968e91ae59cbace674f5c"></string>
    <list>
@@ -8109,11 +9636,19 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="65fa96b0953c66f83039d06ce4499e54"></string>
    <list>
-    <reference key="8"></reference>
+    <reference key="6"></reference>
    </list>
    <string role="key" value="6fac9a2a3edad7f17bf7362818771648"></string>
    <list>
     <reference key="56"></reference>
+   </list>
+   <string role="key" value="792d6f31e1203e2e909e84d4c3d68d9a"></string>
+   <list>
+    <reference key="82"></reference>
+   </list>
+   <string role="key" value="9740d276d0cf18e66da3bf95a671cb18"></string>
+   <list>
+    <reference key="91"></reference>
    </list>
    <string role="key" value="b85d8b38415c8c364281d1cc9859a908"></string>
    <list>
@@ -8121,7 +9656,11 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
    <list>
-    <reference key="9"></reference>
+    <reference key="8"></reference>
+   </list>
+   <string role="key" value="ca9083d57e89237ee654045c5bd495b4"></string>
+   <list>
+    <reference key="94"></reference>
    </list>
    <string role="key" value="cb42e9b3ffbe80255d38a54a9968ff38"></string>
    <list>
@@ -8129,7 +9668,7 @@ clicking the red X next to the option."></unicode>
    </list>
    <string role="key" value="d120842d8f550561881735caaa010727"></string>
    <list>
-    <reference key="62"></reference>
+    <reference key="63"></reference>
    </list>
    <string role="key" value="fec20485f1434c25f4f891b3597d1cb9"></string>
    <list>
