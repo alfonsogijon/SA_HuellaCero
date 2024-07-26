@@ -3,7 +3,7 @@
 <instance xmlns="http://www.exelearning.org/content/v0.3" reference="2" version="0.3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemalocation="http://www.exelearning.org/content/v0.3 content.xsd" class="exe.engine.package.Package">
  <dictionary>
   <string role="key" value="_title"></string>
-  <unicode value="Reduce tu huella"></unicode>
+  <unicode value="Reduce tu huella de carbono"></unicode>
   <string role="key" value="idevices"></string>
   <list></list>
   <string role="key" value="_addAccessibilityToolbar"></string>
@@ -119,7 +119,7 @@ window.MathJax = {
    <instance class="exe.engine.node.Node" reference="4">
     <dictionary>
      <string role="key" value="_title"></string>
-     <unicode value="Reduce tu huella"></unicode>
+     <unicode value="Reduce tu huella de carbono"></unicode>
      <string role="key" value="idevices"></string>
      <list>
       <instance class="exe.engine.jsidevice.JsIdevice" reference="1">
@@ -242,7 +242,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281561"></int>
+                  <int value="281622"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -256,7 +256,7 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.263"></unicode>
+                <unicode value="158_361_2.273"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="5">
                  <dictionary>
@@ -265,9 +265,61 @@ window.MathJax = {
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
+                  <string value="pensando.png"></string>
+                  <string role="key" value="_userName"></string>
+                  <string value="/tmp/tmpcathMI/pensando.png"></string>
+                  <string role="key" value="checksum"></string>
+                  <string value="415f6b43bd8ffffec6055d39ea96df5e"></string>
+                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                  <int value="2"></int>
+                  <string role="key" value="warningMsg"></string>
+                  <string value=""></string>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_parent"></string>
+                <reference key="3"></reference>
+                <string role="key" value="_thumbnailResource"></string>
+                <none></none>
+                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                <int value="3"></int>
+                <string role="key" value="makeThumbnail"></string>
+                <bool value="0"></bool>
+               </dictionary>
+              </instance>
+              <instance class="exe.engine.galleryidevice.GalleryImage">
+               <dictionary>
+                <string role="key" value="_caption"></string>
+                <instance class="exe.engine.field.TextField">
+                 <dictionary>
+                  <string role="key" value="_id"></string>
+                  <int value="281631"></int>
+                  <string role="key" value="_idevice"></string>
+                  <none></none>
+                  <string role="key" value="_instruc"></string>
+                  <string value=""></string>
+                  <string role="key" value="_name"></string>
+                  <string value=""></string>
+                  <string role="key" value="content"></string>
+                  <string value=""></string>
+                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                  <int value="4"></int>
+                 </dictionary>
+                </instance>
+                <string role="key" value="_id"></string>
+                <unicode value="158_361_2.274"></unicode>
+                <string role="key" value="_imageResource"></string>
+                <instance class="exe.engine.resource.Resource" reference="6">
+                 <dictionary>
+                  <string role="key" value="_idevice"></string>
+                  <reference key="1"></reference>
+                  <string role="key" value="_package"></string>
+                  <reference key="2"></reference>
+                  <string role="key" value="_storageName"></string>
                   <string value="certificacion_1.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\certificacion_1.png"></string>
+                  <string value="/tmp/tmpcathMI/certificacion_1.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="2e8b18574f2e27eb4d559206b741cf35"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -294,7 +346,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281562"></int>
+                  <int value="281636"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -308,59 +360,7 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.264"></unicode>
-                <string role="key" value="_imageResource"></string>
-                <instance class="exe.engine.resource.Resource" reference="6">
-                 <dictionary>
-                  <string role="key" value="_idevice"></string>
-                  <reference key="1"></reference>
-                  <string role="key" value="_package"></string>
-                  <reference key="2"></reference>
-                  <string role="key" value="_storageName"></string>
-                  <string value="certificacion_2.png"></string>
-                  <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\certificacion_2.png"></string>
-                  <string role="key" value="checksum"></string>
-                  <string value="65fa96b0953c66f83039d06ce4499e54"></string>
-                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                  <int value="2"></int>
-                  <string role="key" value="warningMsg"></string>
-                  <string value=""></string>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_parent"></string>
-                <reference key="3"></reference>
-                <string role="key" value="_thumbnailResource"></string>
-                <none></none>
-                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                <int value="3"></int>
-                <string role="key" value="makeThumbnail"></string>
-                <bool value="0"></bool>
-               </dictionary>
-              </instance>
-              <instance class="exe.engine.galleryidevice.GalleryImage">
-               <dictionary>
-                <string role="key" value="_caption"></string>
-                <instance class="exe.engine.field.TextField">
-                 <dictionary>
-                  <string role="key" value="_id"></string>
-                  <int value="281563"></int>
-                  <string role="key" value="_idevice"></string>
-                  <none></none>
-                  <string role="key" value="_instruc"></string>
-                  <string value=""></string>
-                  <string role="key" value="_name"></string>
-                  <string value=""></string>
-                  <string role="key" value="content"></string>
-                  <string value=""></string>
-                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                  <int value="4"></int>
-                 </dictionary>
-                </instance>
-                <string role="key" value="_id"></string>
-                <unicode value="158_361_2.265"></unicode>
+                <unicode value="158_361_2.275"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="7">
                  <dictionary>
@@ -371,7 +371,7 @@ window.MathJax = {
                   <string role="key" value="_storageName"></string>
                   <string value="certificacion_3.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\certificacion_3.png"></string>
+                  <string value="/tmp/tmpcathMI/certificacion_3.png"></string>
                   <string role="key" value="checksum"></string>
                   <string value="b85d8b38415c8c364281d1cc9859a908"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -398,7 +398,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281573"></int>
+                  <int value="281638"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -412,7 +412,7 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.266"></unicode>
+                <unicode value="158_361_2.276"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="8">
                  <dictionary>
@@ -421,11 +421,11 @@ window.MathJax = {
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="huellas_sin_texto.png"></string>
+                  <string value="certificacion_2.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\huellas_sin_texto.png"></string>
+                  <string value="/tmp/tmpcathMI/certificacion_2.png"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
+                  <string value="65fa96b0953c66f83039d06ce4499e54"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -450,7 +450,7 @@ window.MathJax = {
                 <instance class="exe.engine.field.TextField">
                  <dictionary>
                   <string role="key" value="_id"></string>
-                  <int value="281582"></int>
+                  <int value="281643"></int>
                   <string role="key" value="_idevice"></string>
                   <none></none>
                   <string role="key" value="_instruc"></string>
@@ -464,7 +464,7 @@ window.MathJax = {
                  </dictionary>
                 </instance>
                 <string role="key" value="_id"></string>
-                <unicode value="158_361_2.267"></unicode>
+                <unicode value="158_361_2.277"></unicode>
                 <string role="key" value="_imageResource"></string>
                 <instance class="exe.engine.resource.Resource" reference="9">
                  <dictionary>
@@ -473,11 +473,11 @@ window.MathJax = {
                   <string role="key" value="_package"></string>
                   <reference key="2"></reference>
                   <string role="key" value="_storageName"></string>
-                  <string value="pensando.png"></string>
+                  <string value="huellas_sin_texto.png"></string>
                   <string role="key" value="_userName"></string>
-                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\pensando.png"></string>
+                  <string value="/tmp/tmpcathMI/huellas_sin_texto.png"></string>
                   <string role="key" value="checksum"></string>
-                  <string value="415f6b43bd8ffffec6055d39ea96df5e"></string>
+                  <string value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                   <int value="2"></int>
                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -504,7 +504,7 @@ window.MathJax = {
            <string role="key" value="intlinks_to_anchors"></string>
            <dictionary></dictionary>
            <string role="key" value="nextImageId"></string>
-           <int value="268"></int>
+           <int value="278"></int>
            <string role="key" value="parentNode"></string>
            <reference key="4"></reference>
           </dictionary>
@@ -552,7 +552,7 @@ window.MathJax = {
      <string role="key" value="exportType"></string>
      <string value="website"></string>
      <string role="key" value="last_full_node_path"></string>
-     <string value="exe-node:Reduce%20tu%20huella"></string>
+     <string value="exe-node:Reduce%20tu%20huella%20de%20carbono"></string>
      <string role="key" value="parent"></string>
      <none></none>
      <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -642,34 +642,34 @@ window.MathJax = {
               <dictionary></dictionary>
               <string role="key" value="content_w_resourcePaths"></string>
               <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Esta situación de aprendizaje se organiza en las siguientes 6 actividades:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico#auto_top&quot;&gt;1. Introducción al cambio climático&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico#auto_top&quot;&gt;1. Introducción al cambio climático&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cuestionario conciencia ambiental&lt;/li&gt;
 &lt;li&gt;Cambio climático, efecto invernadero, huella de carbono.&lt;/li&gt;
 &lt;li&gt;Ideas Previas&lt;/li&gt;
 &lt;li&gt;Glosario&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:2.%20Funda%20tu%20empresa#auto_top&quot;&gt;2. Funda tu empresa&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:2.%20Funda%20tu%20empresa#auto_top&quot;&gt;2. Funda tu empresa&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Planteamiento del problema&lt;/li&gt;
 &lt;li&gt;Diseño de nombre y logo empresa&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:3.%20Huella%20de%20carbono#auto_top&quot;&gt;3. Huella de carbono&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:3.%20Huella%20de%20carbono#auto_top&quot;&gt;3. Huella de carbono&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Entrevista/cuestionario para conocer cliente&lt;/li&gt;
 &lt;li&gt;Cálculo huella de carbono&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica#auto_top&quot;&gt;4. Sostenibilidad energética&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica#auto_top&quot;&gt;4. Sostenibilidad energética&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Eficiencia energética&lt;/li&gt;
 &lt;li&gt;Placas solares&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:5.%20Resultados#auto_top&quot;&gt;5. Resultados&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:5.%20Resultados#auto_top&quot;&gt;5. Resultados&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Cálculo de puntuación&lt;/li&gt;
 &lt;li&gt;Visualización de resultados&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella:Actividades:6.%20Presentaci%C3%B3n%20oral#auto_top&quot;&gt;6. Presentación oral&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:6.%20Presentaci%C3%B3n%20oral#auto_top&quot;&gt;6. Presentación oral&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Presentación oral por empresa&lt;/li&gt;
 &lt;li&gt;Puesta en común de todas las empresas&lt;/li&gt;
@@ -693,7 +693,7 @@ window.MathJax = {
               </instance>
               <string role="key" value="intlinks_to_anchors"></string>
               <dictionary>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico#auto_top"></unicode>
                <instance class="exe.engine.node.Node" reference="87">
                 <dictionary>
                  <string role="key" value="_title"></string>
@@ -776,7 +776,7 @@ window.MathJax = {
                        <string role="key" value="anchors_linked_from_fields"></string>
                        <dictionary></dictionary>
                        <string role="key" value="content_w_resourcePaths"></string>
-                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Antes de empezar, realiza el &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario sobre conciencia ambiental&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                       <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Antes de empezar, realiza el &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario sobre conciencia ambiental&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                        <int value="4"></int>
                        <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -796,7 +796,7 @@ window.MathJax = {
                        </instance>
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary>
-                        <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
+                        <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
                         <instance class="exe.engine.node.Node" reference="16">
                          <dictionary>
                           <string role="key" value="_title"></string>
@@ -902,7 +902,7 @@ window.MathJax = {
                                      <instance class="exe.engine.field.TextField">
                                       <dictionary>
                                        <string role="key" value="_id"></string>
-                                       <int value="281568"></int>
+                                       <int value="281618"></int>
                                        <string role="key" value="_idevice"></string>
                                        <none></none>
                                        <string role="key" value="_instruc"></string>
@@ -916,7 +916,7 @@ window.MathJax = {
                                       </dictionary>
                                      </instance>
                                      <string role="key" value="_id"></string>
-                                     <unicode value="257_282_2.2"></unicode>
+                                     <unicode value="257_282_2.4"></unicode>
                                      <string role="key" value="_imageResource"></string>
                                      <instance class="exe.engine.resource.Resource" reference="17">
                                       <dictionary>
@@ -927,7 +927,7 @@ window.MathJax = {
                                        <string role="key" value="_storageName"></string>
                                        <string value="cuestionario_conciencia_ambiental.pdf"></string>
                                        <string role="key" value="_userName"></string>
-                                       <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\cuestionario_conciencia_ambiental.pdf"></string>
+                                       <string value="/tmp/tmpcathMI/cuestionario_conciencia_ambiental.pdf"></string>
                                        <string role="key" value="checksum"></string>
                                        <string value="fef489bb698de0f09090410bb7018bdb"></string>
                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -956,7 +956,7 @@ window.MathJax = {
                                 <string role="key" value="intlinks_to_anchors"></string>
                                 <dictionary></dictionary>
                                 <string role="key" value="nextImageId"></string>
-                                <int value="3"></int>
+                                <int value="5"></int>
                                 <string role="key" value="parentNode"></string>
                                 <reference key="16"></reference>
                                </dictionary>
@@ -1000,7 +1000,7 @@ window.MathJax = {
                           <string role="key" value="exportType"></string>
                           <string value="website"></string>
                           <string role="key" value="last_full_node_path"></string>
-                          <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental"></string>
+                          <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental"></string>
                           <string role="key" value="parent"></string>
                           <instance class="exe.engine.node.Node" reference="20">
                            <dictionary>
@@ -1348,10 +1348,10 @@ window.MathJax = {
                                   <dictionary></dictionary>
                                   <string role="key" value="content_w_resourcePaths"></string>
                                   <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;Antes de comenzar la actividad 1 de la situación de aprendizaje, rellenarán el &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario de conciencia ambiental&lt;/a&gt; para ver su posición inicial. Al finalizar la situación de aprendizaje, después de la actividad 6, se les volverá a pasar el mismo cuestionario para ver si su postura ha cambiado, valorando la mejora de la conciencia ambiental.&lt;/li&gt;
-&lt;li&gt;Tras las actividades 2-4 sobre el cálculo de la huella de carbono y el estudio de eficiencia energética, se les pedirá a los estudiantes que hagan una &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top&quot;&gt;autoevaluación individua&lt;/a&gt;l, valorándose a ellos mismos y a su equipo.&lt;/li&gt;
-&lt;li&gt;La exposición oral de cada equipo será co-evaluada por los otros equipos, siguiendo una &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top&quot;&gt;rúbrica&lt;/a&gt; con diferentes apartados.&lt;/li&gt;
-&lt;li&gt;La presentación/informe expuesto, será entregado al profesor, que valorará los &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top&quot;&gt;criterios de evaluación&lt;/a&gt; con indicadores específicos sobre las tareas realizadas.&lt;/li&gt;
+&lt;li&gt;Antes de comenzar la actividad 1 de la situación de aprendizaje, rellenarán el &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario de conciencia ambiental&lt;/a&gt; para ver su posición inicial. Al finalizar la situación de aprendizaje, después de la actividad 6, se les volverá a pasar el mismo cuestionario para ver si su postura ha cambiado, valorando la mejora de la conciencia ambiental.&lt;/li&gt;
+&lt;li&gt;Tras las actividades 2-4 sobre el cálculo de la huella de carbono y el estudio de eficiencia energética, se les pedirá a los estudiantes que hagan una &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top&quot;&gt;autoevaluación individua&lt;/a&gt;l, valorándose a ellos mismos y a su equipo.&lt;/li&gt;
+&lt;li&gt;La exposición oral de cada equipo será co-evaluada por los otros equipos, siguiendo una &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top&quot;&gt;rúbrica&lt;/a&gt; con diferentes apartados.&lt;/li&gt;
+&lt;li&gt;La presentación/informe expuesto, será entregado al profesor, que valorará los &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top&quot;&gt;criterios de evaluación&lt;/a&gt; con indicadores específicos sobre las tareas realizadas.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;/p&gt;&lt;/div&gt;"></unicode>
                                   <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -1373,7 +1373,7 @@ window.MathJax = {
                                   </instance>
                                   <string role="key" value="intlinks_to_anchors"></string>
                                   <dictionary>
-                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top"></unicode>
+                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top"></unicode>
                                    <instance class="exe.engine.node.Node" reference="27">
                                     <dictionary>
                                      <string role="key" value="_title"></string>
@@ -1503,7 +1503,7 @@ window.MathJax = {
                                                 <instance class="exe.engine.field.TextField">
                                                  <dictionary>
                                                   <string role="key" value="_id"></string>
-                                                  <int value="281557"></int>
+                                                  <int value="281616"></int>
                                                   <string role="key" value="_idevice"></string>
                                                   <none></none>
                                                   <string role="key" value="_instruc"></string>
@@ -1517,7 +1517,7 @@ window.MathJax = {
                                                  </dictionary>
                                                 </instance>
                                                 <string role="key" value="_id"></string>
-                                                <unicode value="277_181_2.65"></unicode>
+                                                <unicode value="277_181_2.75"></unicode>
                                                 <string role="key" value="_imageResource"></string>
                                                 <instance class="exe.engine.resource.Resource" reference="28">
                                                  <dictionary>
@@ -1526,165 +1526,9 @@ window.MathJax = {
                                                   <string role="key" value="_package"></string>
                                                   <reference key="2"></reference>
                                                   <string role="key" value="_storageName"></string>
-                                                  <string value="Amarillo.png"></string>
-                                                  <string role="key" value="_userName"></string>
-                                                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Amarillo.png"></string>
-                                                  <string role="key" value="checksum"></string>
-                                                  <string value="2dd824ac4e741199ad1365b9df64ee14"></string>
-                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="warningMsg"></string>
-                                                  <string value=""></string>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_parent"></string>
-                                                <reference key="26"></reference>
-                                                <string role="key" value="_thumbnailResource"></string>
-                                                <none></none>
-                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                                <int value="3"></int>
-                                                <string role="key" value="makeThumbnail"></string>
-                                                <bool value="0"></bool>
-                                               </dictionary>
-                                              </instance>
-                                              <instance class="exe.engine.galleryidevice.GalleryImage">
-                                               <dictionary>
-                                                <string role="key" value="_caption"></string>
-                                                <instance class="exe.engine.field.TextField">
-                                                 <dictionary>
-                                                  <string role="key" value="_id"></string>
-                                                  <int value="281559"></int>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <none></none>
-                                                  <string role="key" value="_instruc"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="_name"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="content"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                                  <int value="4"></int>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_id"></string>
-                                                <unicode value="277_181_2.66"></unicode>
-                                                <string role="key" value="_imageResource"></string>
-                                                <instance class="exe.engine.resource.Resource" reference="29">
-                                                 <dictionary>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <reference key="25"></reference>
-                                                  <string role="key" value="_package"></string>
-                                                  <reference key="2"></reference>
-                                                  <string role="key" value="_storageName"></string>
-                                                  <string value="Azul.png"></string>
-                                                  <string role="key" value="_userName"></string>
-                                                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Azul.png"></string>
-                                                  <string role="key" value="checksum"></string>
-                                                  <string value="5dcd787e04bb24da80ec7db66c0151e5"></string>
-                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="warningMsg"></string>
-                                                  <string value=""></string>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_parent"></string>
-                                                <reference key="26"></reference>
-                                                <string role="key" value="_thumbnailResource"></string>
-                                                <none></none>
-                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                                <int value="3"></int>
-                                                <string role="key" value="makeThumbnail"></string>
-                                                <bool value="0"></bool>
-                                               </dictionary>
-                                              </instance>
-                                              <instance class="exe.engine.galleryidevice.GalleryImage">
-                                               <dictionary>
-                                                <string role="key" value="_caption"></string>
-                                                <instance class="exe.engine.field.TextField">
-                                                 <dictionary>
-                                                  <string role="key" value="_id"></string>
-                                                  <int value="281581"></int>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <none></none>
-                                                  <string role="key" value="_instruc"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="_name"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="content"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                                  <int value="4"></int>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_id"></string>
-                                                <unicode value="277_181_2.67"></unicode>
-                                                <string role="key" value="_imageResource"></string>
-                                                <instance class="exe.engine.resource.Resource" reference="30">
-                                                 <dictionary>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <reference key="25"></reference>
-                                                  <string role="key" value="_package"></string>
-                                                  <reference key="2"></reference>
-                                                  <string role="key" value="_storageName"></string>
-                                                  <string value="Morado.png"></string>
-                                                  <string role="key" value="_userName"></string>
-                                                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Morado.png"></string>
-                                                  <string role="key" value="checksum"></string>
-                                                  <string value="c2155aa11f2ecf172146dbfb71b934b4"></string>
-                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                                  <int value="2"></int>
-                                                  <string role="key" value="warningMsg"></string>
-                                                  <string value=""></string>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_parent"></string>
-                                                <reference key="26"></reference>
-                                                <string role="key" value="_thumbnailResource"></string>
-                                                <none></none>
-                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                                <int value="3"></int>
-                                                <string role="key" value="makeThumbnail"></string>
-                                                <bool value="0"></bool>
-                                               </dictionary>
-                                              </instance>
-                                              <instance class="exe.engine.galleryidevice.GalleryImage">
-                                               <dictionary>
-                                                <string role="key" value="_caption"></string>
-                                                <instance class="exe.engine.field.TextField">
-                                                 <dictionary>
-                                                  <string role="key" value="_id"></string>
-                                                  <int value="281584"></int>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <none></none>
-                                                  <string role="key" value="_instruc"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="_name"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="content"></string>
-                                                  <string value=""></string>
-                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                                  <int value="4"></int>
-                                                 </dictionary>
-                                                </instance>
-                                                <string role="key" value="_id"></string>
-                                                <unicode value="277_181_2.68"></unicode>
-                                                <string role="key" value="_imageResource"></string>
-                                                <instance class="exe.engine.resource.Resource" reference="31">
-                                                 <dictionary>
-                                                  <string role="key" value="_idevice"></string>
-                                                  <reference key="25"></reference>
-                                                  <string role="key" value="_package"></string>
-                                                  <reference key="2"></reference>
-                                                  <string role="key" value="_storageName"></string>
                                                   <string value="rojo.png"></string>
                                                   <string role="key" value="_userName"></string>
-                                                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\rojo.png"></string>
+                                                  <string value="/tmp/tmpcathMI/rojo.png"></string>
                                                   <string role="key" value="checksum"></string>
                                                   <string value="bafc00c6d77b95c3471b963fb026b960"></string>
                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -1711,7 +1555,7 @@ window.MathJax = {
                                                 <instance class="exe.engine.field.TextField">
                                                  <dictionary>
                                                   <string role="key" value="_id"></string>
-                                                  <int value="281585"></int>
+                                                  <int value="281617"></int>
                                                   <string role="key" value="_idevice"></string>
                                                   <none></none>
                                                   <string role="key" value="_instruc"></string>
@@ -1725,9 +1569,9 @@ window.MathJax = {
                                                  </dictionary>
                                                 </instance>
                                                 <string role="key" value="_id"></string>
-                                                <unicode value="277_181_2.69"></unicode>
+                                                <unicode value="277_181_2.76"></unicode>
                                                 <string role="key" value="_imageResource"></string>
-                                                <instance class="exe.engine.resource.Resource" reference="32">
+                                                <instance class="exe.engine.resource.Resource" reference="29">
                                                  <dictionary>
                                                   <string role="key" value="_idevice"></string>
                                                   <reference key="25"></reference>
@@ -1736,9 +1580,165 @@ window.MathJax = {
                                                   <string role="key" value="_storageName"></string>
                                                   <string value="Verde.png"></string>
                                                   <string role="key" value="_userName"></string>
-                                                  <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Verde.png"></string>
+                                                  <string value="/tmp/tmpcathMI/Verde.png"></string>
                                                   <string role="key" value="checksum"></string>
                                                   <string value="64b895d39e5992a4918e58529dc2cd3e"></string>
+                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="warningMsg"></string>
+                                                  <string value=""></string>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_parent"></string>
+                                                <reference key="26"></reference>
+                                                <string role="key" value="_thumbnailResource"></string>
+                                                <none></none>
+                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                                <int value="3"></int>
+                                                <string role="key" value="makeThumbnail"></string>
+                                                <bool value="0"></bool>
+                                               </dictionary>
+                                              </instance>
+                                              <instance class="exe.engine.galleryidevice.GalleryImage">
+                                               <dictionary>
+                                                <string role="key" value="_caption"></string>
+                                                <instance class="exe.engine.field.TextField">
+                                                 <dictionary>
+                                                  <string role="key" value="_id"></string>
+                                                  <int value="281626"></int>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <none></none>
+                                                  <string role="key" value="_instruc"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="_name"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="content"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                                  <int value="4"></int>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_id"></string>
+                                                <unicode value="277_181_2.77"></unicode>
+                                                <string role="key" value="_imageResource"></string>
+                                                <instance class="exe.engine.resource.Resource" reference="30">
+                                                 <dictionary>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <reference key="25"></reference>
+                                                  <string role="key" value="_package"></string>
+                                                  <reference key="2"></reference>
+                                                  <string role="key" value="_storageName"></string>
+                                                  <string value="Azul.png"></string>
+                                                  <string role="key" value="_userName"></string>
+                                                  <string value="/tmp/tmpcathMI/Azul.png"></string>
+                                                  <string role="key" value="checksum"></string>
+                                                  <string value="5dcd787e04bb24da80ec7db66c0151e5"></string>
+                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="warningMsg"></string>
+                                                  <string value=""></string>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_parent"></string>
+                                                <reference key="26"></reference>
+                                                <string role="key" value="_thumbnailResource"></string>
+                                                <none></none>
+                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                                <int value="3"></int>
+                                                <string role="key" value="makeThumbnail"></string>
+                                                <bool value="0"></bool>
+                                               </dictionary>
+                                              </instance>
+                                              <instance class="exe.engine.galleryidevice.GalleryImage">
+                                               <dictionary>
+                                                <string role="key" value="_caption"></string>
+                                                <instance class="exe.engine.field.TextField">
+                                                 <dictionary>
+                                                  <string role="key" value="_id"></string>
+                                                  <int value="281629"></int>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <none></none>
+                                                  <string role="key" value="_instruc"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="_name"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="content"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                                  <int value="4"></int>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_id"></string>
+                                                <unicode value="277_181_2.78"></unicode>
+                                                <string role="key" value="_imageResource"></string>
+                                                <instance class="exe.engine.resource.Resource" reference="31">
+                                                 <dictionary>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <reference key="25"></reference>
+                                                  <string role="key" value="_package"></string>
+                                                  <reference key="2"></reference>
+                                                  <string role="key" value="_storageName"></string>
+                                                  <string value="Morado.png"></string>
+                                                  <string role="key" value="_userName"></string>
+                                                  <string value="/tmp/tmpcathMI/Morado.png"></string>
+                                                  <string role="key" value="checksum"></string>
+                                                  <string value="c2155aa11f2ecf172146dbfb71b934b4"></string>
+                                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                                  <int value="2"></int>
+                                                  <string role="key" value="warningMsg"></string>
+                                                  <string value=""></string>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_parent"></string>
+                                                <reference key="26"></reference>
+                                                <string role="key" value="_thumbnailResource"></string>
+                                                <none></none>
+                                                <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                                <int value="3"></int>
+                                                <string role="key" value="makeThumbnail"></string>
+                                                <bool value="0"></bool>
+                                               </dictionary>
+                                              </instance>
+                                              <instance class="exe.engine.galleryidevice.GalleryImage">
+                                               <dictionary>
+                                                <string role="key" value="_caption"></string>
+                                                <instance class="exe.engine.field.TextField">
+                                                 <dictionary>
+                                                  <string role="key" value="_id"></string>
+                                                  <int value="281632"></int>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <none></none>
+                                                  <string role="key" value="_instruc"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="_name"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="content"></string>
+                                                  <string value=""></string>
+                                                  <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                                  <int value="4"></int>
+                                                 </dictionary>
+                                                </instance>
+                                                <string role="key" value="_id"></string>
+                                                <unicode value="277_181_2.79"></unicode>
+                                                <string role="key" value="_imageResource"></string>
+                                                <instance class="exe.engine.resource.Resource" reference="32">
+                                                 <dictionary>
+                                                  <string role="key" value="_idevice"></string>
+                                                  <reference key="25"></reference>
+                                                  <string role="key" value="_package"></string>
+                                                  <reference key="2"></reference>
+                                                  <string role="key" value="_storageName"></string>
+                                                  <string value="Amarillo.png"></string>
+                                                  <string role="key" value="_userName"></string>
+                                                  <string value="/tmp/tmpcathMI/Amarillo.png"></string>
+                                                  <string role="key" value="checksum"></string>
+                                                  <string value="2dd824ac4e741199ad1365b9df64ee14"></string>
                                                   <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                                   <int value="2"></int>
                                                   <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -1765,7 +1765,7 @@ window.MathJax = {
                                            <string role="key" value="intlinks_to_anchors"></string>
                                            <dictionary></dictionary>
                                            <string role="key" value="nextImageId"></string>
-                                           <int value="70"></int>
+                                           <int value="80"></int>
                                            <string role="key" value="parentNode"></string>
                                            <reference key="27"></reference>
                                           </dictionary>
@@ -1813,7 +1813,7 @@ window.MathJax = {
                                      <string role="key" value="exportType"></string>
                                      <string value="website"></string>
                                      <string role="key" value="last_full_node_path"></string>
-                                     <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n"></string>
+                                     <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n"></string>
                                      <string role="key" value="parent"></string>
                                      <reference key="20"></reference>
                                      <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2387,7 +2387,7 @@ window.MathJax = {
                                                        <instance class="exe.engine.field.TextField">
                                                         <dictionary>
                                                          <string role="key" value="_id"></string>
-                                                         <int value="281575"></int>
+                                                         <int value="281621"></int>
                                                          <string role="key" value="_idevice"></string>
                                                          <none></none>
                                                          <string role="key" value="_instruc"></string>
@@ -2401,7 +2401,7 @@ window.MathJax = {
                                                         </dictionary>
                                                        </instance>
                                                        <string role="key" value="_id"></string>
-                                                       <unicode value="243_302_2.2"></unicode>
+                                                       <unicode value="243_302_2.4"></unicode>
                                                        <string role="key" value="_imageResource"></string>
                                                        <instance class="exe.engine.resource.Resource" reference="43">
                                                         <dictionary>
@@ -2412,7 +2412,7 @@ window.MathJax = {
                                                          <string role="key" value="_storageName"></string>
                                                          <string value="Huella_comparacion_muldial.png"></string>
                                                          <string role="key" value="_userName"></string>
-                                                         <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Huella_comparacion_muldial.png"></string>
+                                                         <string value="/tmp/tmpcathMI/Huella_comparacion_muldial.png"></string>
                                                          <string role="key" value="checksum"></string>
                                                          <string value="c5442673d6c0a1979c1b717a7d17c541"></string>
                                                          <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2441,7 +2441,7 @@ window.MathJax = {
                                                   <string role="key" value="intlinks_to_anchors"></string>
                                                   <dictionary></dictionary>
                                                   <string role="key" value="nextImageId"></string>
-                                                  <int value="3"></int>
+                                                  <int value="5"></int>
                                                   <string role="key" value="parentNode"></string>
                                                   <reference key="36"></reference>
                                                  </dictionary>
@@ -2486,7 +2486,7 @@ window.MathJax = {
                                             <string role="key" value="exportType"></string>
                                             <string value="website"></string>
                                             <string role="key" value="last_full_node_path"></string>
-                                            <string value="exe-node:Reduce%20tu%20huella:Actividades:5.%20Resultados"></string>
+                                            <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:5.%20Resultados"></string>
                                             <string role="key" value="parent"></string>
                                             <reference key="45"></reference>
                                             <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2516,7 +2516,7 @@ window.MathJax = {
                                         <string role="key" value="anchors_linked_from_fields"></string>
                                         <dictionary></dictionary>
                                         <string role="key" value="content_w_resourcePaths"></string>
-                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Cada miembro del equipo, debe completar la &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top&quot;&gt;diana de autoevaluación&lt;/a&gt;, valorando su actuación dentro de la empresa. &lt;/p&gt;&lt;/div&gt;"></unicode>
+                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Cada miembro del equipo, debe completar la &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top&quot;&gt;diana de autoevaluación&lt;/a&gt;, valorando su actuación dentro de la empresa. &lt;/p&gt;&lt;/div&gt;"></unicode>
                                         <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                         <int value="4"></int>
                                         <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -2536,7 +2536,7 @@ window.MathJax = {
                                         </instance>
                                         <string role="key" value="intlinks_to_anchors"></string>
                                         <dictionary>
-                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top"></unicode>
+                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Autoevaluaci%C3%B3n#auto_top"></unicode>
                                          <reference key="27"></reference>
                                         </dictionary>
                                         <string role="key" value="nextImageId"></string>
@@ -2551,7 +2551,7 @@ window.MathJax = {
                                      <list></list>
                                     </dictionary>
                                    </instance>
-                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top"></unicode>
+                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top"></unicode>
                                    <instance class="exe.engine.node.Node" reference="48">
                                     <dictionary>
                                      <string role="key" value="_title"></string>
@@ -2697,7 +2697,7 @@ window.MathJax = {
                                      <string role="key" value="exportType"></string>
                                      <string value="website"></string>
                                      <string role="key" value="last_full_node_path"></string>
-                                     <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n"></string>
+                                     <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n"></string>
                                      <string role="key" value="parent"></string>
                                      <reference key="20"></reference>
                                      <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -2901,7 +2901,7 @@ window.MathJax = {
                                                        <instance class="exe.engine.field.TextField">
                                                         <dictionary>
                                                          <string role="key" value="_id"></string>
-                                                         <int value="281576"></int>
+                                                         <int value="281640"></int>
                                                          <string role="key" value="_idevice"></string>
                                                          <none></none>
                                                          <string role="key" value="_instruc"></string>
@@ -2915,7 +2915,7 @@ window.MathJax = {
                                                         </dictionary>
                                                        </instance>
                                                        <string role="key" value="_id"></string>
-                                                       <unicode value="245_263_2.2"></unicode>
+                                                       <unicode value="245_263_2.4"></unicode>
                                                        <string role="key" value="_imageResource"></string>
                                                        <instance class="exe.engine.resource.Resource" reference="53">
                                                         <dictionary>
@@ -2926,7 +2926,7 @@ window.MathJax = {
                                                          <string role="key" value="_storageName"></string>
                                                          <string value="icono_presentacion.png"></string>
                                                          <string role="key" value="_userName"></string>
-                                                         <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\icono_presentacion.png"></string>
+                                                         <string value="/tmp/tmpcathMI/icono_presentacion.png"></string>
                                                          <string role="key" value="checksum"></string>
                                                          <string value="922377786a991df4d229ac5423d3820f"></string>
                                                          <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -2955,7 +2955,7 @@ window.MathJax = {
                                                   <string role="key" value="intlinks_to_anchors"></string>
                                                   <dictionary></dictionary>
                                                   <string role="key" value="nextImageId"></string>
-                                                  <int value="3"></int>
+                                                  <int value="5"></int>
                                                   <string role="key" value="parentNode"></string>
                                                   <reference key="52"></reference>
                                                  </dictionary>
@@ -3190,7 +3190,7 @@ window.MathJax = {
                                                   <string role="key" value="anchors_linked_from_fields"></string>
                                                   <dictionary></dictionary>
                                                   <string role="key" value="content_w_resourcePaths"></string>
-                                                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Por último, para comprobar si nuestra conciencia ambiental ha cambiado, realizamos de nuevo el &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario de conciencia ambiental&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
+                                                  <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;p&gt;Por último, para comprobar si nuestra conciencia ambiental ha cambiado, realizamos de nuevo el &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top&quot;&gt;cuestionario de conciencia ambiental&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                                                   <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                                   <int value="4"></int>
                                                   <string role="key" value="exe.engine.field.FieldWithResources.persistenceVersion"></string>
@@ -3210,7 +3210,7 @@ window.MathJax = {
                                                   </instance>
                                                   <string role="key" value="intlinks_to_anchors"></string>
                                                   <dictionary>
-                                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
+                                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
                                                    <reference key="16"></reference>
                                                   </dictionary>
                                                   <string role="key" value="nextImageId"></string>
@@ -3257,7 +3257,7 @@ window.MathJax = {
                                             <string role="key" value="exportType"></string>
                                             <string value="website"></string>
                                             <string role="key" value="last_full_node_path"></string>
-                                            <string value="exe-node:Reduce%20tu%20huella:Actividades:6.%20Presentaci%C3%B3n%20oral"></string>
+                                            <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:6.%20Presentaci%C3%B3n%20oral"></string>
                                             <string role="key" value="parent"></string>
                                             <reference key="45"></reference>
                                             <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3288,8 +3288,8 @@ window.MathJax = {
                                         <dictionary></dictionary>
                                         <string role="key" value="content_w_resourcePaths"></string>
                                         <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;ul&gt;
-&lt;li&gt;La presentación oral será co-evaluada por el resto de equipos/empresas con &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top&quot;&gt;esta rúbrica&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;La presentación debe entregarse en formato PDF al profesor, que evaluará los resultados con estos &lt;a href=&quot;exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top&quot;&gt;criterios de evaluación&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;La presentación oral será co-evaluada por el resto de equipos/empresas con &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top&quot;&gt;esta rúbrica&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;La presentación debe entregarse en formato PDF al profesor, que evaluará los resultados con estos &lt;a href=&quot;exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top&quot;&gt;criterios de evaluación&lt;/a&gt;.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;"></unicode>
                                         <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                                         <int value="4"></int>
@@ -3310,9 +3310,9 @@ window.MathJax = {
                                         </instance>
                                         <string role="key" value="intlinks_to_anchors"></string>
                                         <dictionary>
-                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top"></unicode>
+                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Coevaluaci%C3%B3n#auto_top"></unicode>
                                          <reference key="48"></reference>
-                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top"></unicode>
+                                         <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top"></unicode>
                                          <instance class="exe.engine.node.Node" reference="61">
                                           <dictionary>
                                            <string role="key" value="_title"></string>
@@ -3419,7 +3419,7 @@ window.MathJax = {
                                                       <instance class="exe.engine.field.TextField">
                                                        <dictionary>
                                                         <string role="key" value="_id"></string>
-                                                        <int value="281564"></int>
+                                                        <int value="281628"></int>
                                                         <string role="key" value="_idevice"></string>
                                                         <none></none>
                                                         <string role="key" value="_instruc"></string>
@@ -3433,7 +3433,7 @@ window.MathJax = {
                                                        </dictionary>
                                                       </instance>
                                                       <string role="key" value="_id"></string>
-                                                      <unicode value="262_286_2.6"></unicode>
+                                                      <unicode value="262_286_2.12"></unicode>
                                                       <string role="key" value="_imageResource"></string>
                                                       <instance class="exe.engine.resource.Resource" reference="62">
                                                        <dictionary>
@@ -3442,61 +3442,9 @@ window.MathJax = {
                                                         <string role="key" value="_package"></string>
                                                         <reference key="2"></reference>
                                                         <string role="key" value="_storageName"></string>
-                                                        <string value="CE_1.png"></string>
-                                                        <string role="key" value="_userName"></string>
-                                                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\CE_1.png"></string>
-                                                        <string role="key" value="checksum"></string>
-                                                        <string value="d6081ab4d30c872d33626c2776e37adc"></string>
-                                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
-                                                        <int value="2"></int>
-                                                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
-                                                        <int value="2"></int>
-                                                        <string role="key" value="warningMsg"></string>
-                                                        <string value=""></string>
-                                                       </dictionary>
-                                                      </instance>
-                                                      <string role="key" value="_parent"></string>
-                                                      <reference key="60"></reference>
-                                                      <string role="key" value="_thumbnailResource"></string>
-                                                      <none></none>
-                                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
-                                                      <int value="3"></int>
-                                                      <string role="key" value="makeThumbnail"></string>
-                                                      <bool value="0"></bool>
-                                                     </dictionary>
-                                                    </instance>
-                                                    <instance class="exe.engine.galleryidevice.GalleryImage">
-                                                     <dictionary>
-                                                      <string role="key" value="_caption"></string>
-                                                      <instance class="exe.engine.field.TextField">
-                                                       <dictionary>
-                                                        <string role="key" value="_id"></string>
-                                                        <int value="281565"></int>
-                                                        <string role="key" value="_idevice"></string>
-                                                        <none></none>
-                                                        <string role="key" value="_instruc"></string>
-                                                        <string value=""></string>
-                                                        <string role="key" value="_name"></string>
-                                                        <string value=""></string>
-                                                        <string role="key" value="content"></string>
-                                                        <string value=""></string>
-                                                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
-                                                        <int value="4"></int>
-                                                       </dictionary>
-                                                      </instance>
-                                                      <string role="key" value="_id"></string>
-                                                      <unicode value="262_286_2.7"></unicode>
-                                                      <string role="key" value="_imageResource"></string>
-                                                      <instance class="exe.engine.resource.Resource" reference="63">
-                                                       <dictionary>
-                                                        <string role="key" value="_idevice"></string>
-                                                        <reference key="59"></reference>
-                                                        <string role="key" value="_package"></string>
-                                                        <reference key="2"></reference>
-                                                        <string role="key" value="_storageName"></string>
                                                         <string value="CE_2.png"></string>
                                                         <string role="key" value="_userName"></string>
-                                                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\CE_2.png"></string>
+                                                        <string value="/tmp/tmpcathMI/CE_2.png"></string>
                                                         <string role="key" value="checksum"></string>
                                                         <string value="9e2faf8b1f72e19d697a1bf0bf11cc57"></string>
                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -3523,7 +3471,7 @@ window.MathJax = {
                                                       <instance class="exe.engine.field.TextField">
                                                        <dictionary>
                                                         <string role="key" value="_id"></string>
-                                                        <int value="281567"></int>
+                                                        <int value="281635"></int>
                                                         <string role="key" value="_idevice"></string>
                                                         <none></none>
                                                         <string role="key" value="_instruc"></string>
@@ -3537,9 +3485,9 @@ window.MathJax = {
                                                        </dictionary>
                                                       </instance>
                                                       <string role="key" value="_id"></string>
-                                                      <unicode value="262_286_2.8"></unicode>
+                                                      <unicode value="262_286_2.13"></unicode>
                                                       <string role="key" value="_imageResource"></string>
-                                                      <instance class="exe.engine.resource.Resource" reference="64">
+                                                      <instance class="exe.engine.resource.Resource" reference="63">
                                                        <dictionary>
                                                         <string role="key" value="_idevice"></string>
                                                         <reference key="59"></reference>
@@ -3548,9 +3496,61 @@ window.MathJax = {
                                                         <string role="key" value="_storageName"></string>
                                                         <string value="criterios_evaluacion.xlsx"></string>
                                                         <string role="key" value="_userName"></string>
-                                                        <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\criterios_evaluacion.xlsx"></string>
+                                                        <string value="/tmp/tmpcathMI/criterios_evaluacion.xlsx"></string>
                                                         <string role="key" value="checksum"></string>
                                                         <string value="da2122546e7e3eb3bde7ed62f61805bd"></string>
+                                                        <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
+                                                        <int value="2"></int>
+                                                        <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
+                                                        <int value="2"></int>
+                                                        <string role="key" value="warningMsg"></string>
+                                                        <string value=""></string>
+                                                       </dictionary>
+                                                      </instance>
+                                                      <string role="key" value="_parent"></string>
+                                                      <reference key="60"></reference>
+                                                      <string role="key" value="_thumbnailResource"></string>
+                                                      <none></none>
+                                                      <string role="key" value="exe.engine.galleryidevice.GalleryImage.persistenceVersion"></string>
+                                                      <int value="3"></int>
+                                                      <string role="key" value="makeThumbnail"></string>
+                                                      <bool value="0"></bool>
+                                                     </dictionary>
+                                                    </instance>
+                                                    <instance class="exe.engine.galleryidevice.GalleryImage">
+                                                     <dictionary>
+                                                      <string role="key" value="_caption"></string>
+                                                      <instance class="exe.engine.field.TextField">
+                                                       <dictionary>
+                                                        <string role="key" value="_id"></string>
+                                                        <int value="281639"></int>
+                                                        <string role="key" value="_idevice"></string>
+                                                        <none></none>
+                                                        <string role="key" value="_instruc"></string>
+                                                        <string value=""></string>
+                                                        <string role="key" value="_name"></string>
+                                                        <string value=""></string>
+                                                        <string role="key" value="content"></string>
+                                                        <string value=""></string>
+                                                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
+                                                        <int value="4"></int>
+                                                       </dictionary>
+                                                      </instance>
+                                                      <string role="key" value="_id"></string>
+                                                      <unicode value="262_286_2.14"></unicode>
+                                                      <string role="key" value="_imageResource"></string>
+                                                      <instance class="exe.engine.resource.Resource" reference="64">
+                                                       <dictionary>
+                                                        <string role="key" value="_idevice"></string>
+                                                        <reference key="59"></reference>
+                                                        <string role="key" value="_package"></string>
+                                                        <reference key="2"></reference>
+                                                        <string role="key" value="_storageName"></string>
+                                                        <string value="CE_1.png"></string>
+                                                        <string role="key" value="_userName"></string>
+                                                        <string value="/tmp/tmpcathMI/CE_1.png"></string>
+                                                        <string role="key" value="checksum"></string>
+                                                        <string value="d6081ab4d30c872d33626c2776e37adc"></string>
                                                         <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                                         <int value="2"></int>
                                                         <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -3577,7 +3577,7 @@ window.MathJax = {
                                                  <string role="key" value="intlinks_to_anchors"></string>
                                                  <dictionary></dictionary>
                                                  <string role="key" value="nextImageId"></string>
-                                                 <int value="9"></int>
+                                                 <int value="15"></int>
                                                  <string role="key" value="parentNode"></string>
                                                  <reference key="61"></reference>
                                                 </dictionary>
@@ -3623,7 +3623,7 @@ window.MathJax = {
                                            <string role="key" value="exportType"></string>
                                            <string value="website"></string>
                                            <string role="key" value="last_full_node_path"></string>
-                                           <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n"></string>
+                                           <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n"></string>
                                            <string role="key" value="parent"></string>
                                            <reference key="20"></reference>
                                            <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -3648,9 +3648,9 @@ window.MathJax = {
                                      <list></list>
                                     </dictionary>
                                    </instance>
-                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top"></unicode>
+                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Criterios%20de%20evaluaci%C3%B3n#auto_top"></unicode>
                                    <reference key="61"></reference>
-                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
+                                   <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes:Cuestionario%20conciencia%20ambiental#auto_top"></unicode>
                                    <reference key="16"></reference>
                                   </dictionary>
                                   <string role="key" value="nextImageId"></string>
@@ -3696,7 +3696,7 @@ window.MathJax = {
                             <string role="key" value="exportType"></string>
                             <string value="website"></string>
                             <string role="key" value="last_full_node_path"></string>
-                            <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes"></string>
+                            <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20los%20aprendizajes"></string>
                             <string role="key" value="parent"></string>
                             <instance class="exe.engine.node.Node" reference="67">
                              <dictionary>
@@ -3845,7 +3845,7 @@ window.MathJax = {
                               <string role="key" value="exportType"></string>
                               <string value="website"></string>
                               <string role="key" value="last_full_node_path"></string>
-                              <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica"></string>
+                              <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica"></string>
                               <string role="key" value="parent"></string>
                               <reference key="4"></reference>
                               <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4010,7 +4010,7 @@ window.MathJax = {
                                  <string role="key" value="exportType"></string>
                                  <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
-                                 <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Datos%20identificativos"></string>
+                                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Datos%20identificativos"></string>
                                  <string role="key" value="parent"></string>
                                  <reference key="67"></reference>
                                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4204,7 +4204,7 @@ window.MathJax = {
                                  <string role="key" value="exportType"></string>
                                  <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
-                                 <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Secuenciaci%C3%B3n"></string>
+                                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Secuenciaci%C3%B3n"></string>
                                  <string role="key" value="parent"></string>
                                  <reference key="67"></reference>
                                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4295,48 +4295,55 @@ window.MathJax = {
                                        <string role="key" value="content_w_resourcePaths"></string>
                                        <unicode content="true" value="&lt;div class=&quot;exe-text&quot;&gt;&lt;div class=&quot;exe-fx exe-tabs&quot;&gt;
 &lt;h2&gt;Competencias específicas&lt;/h2&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 1&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teo rías científicas adecuadas, para resolver problemas con el fin de aplicarlas para mejorar la realidad cercana y la calidad de vida humana.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 2&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis, para explicarlas y demostrando dichas hipótesis a través de la experimentación científica, la indagación y la búsqueda de evidencias, para desarrollar los razonamientos propios del pensamiento científico y mejorar las destrezas en el uso de las metodologías científicas.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 3&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Manejar con soltura las reglas y normas básicas de la física y la química en lo referente al lenguaje de la IUPAC, al lenguaje matemático, al empleo de unidades de medida correctas, al uso seguro del laboratorio y a la interpretación y producción de datos e información en diferentes formatos y fuentes (textos, enunciados, tablas, gráficas, informes, manuales, diagramas, fórmulas, esquemas, modelos, símbolos, etc.), para reconocer el carácter universal y transversal del lenguaje científico y la necesidad de una comunicación fiable en investigación y ciencia entre diferentes países y culturas.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 4&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Utilizar de forma crítica, eficiente y segura plataformas digitales y recursos variados, tanto para el trabajo individual como en equipo, para fomentar la creatividad, el desarrollo personal y el aprendizaje individual y social, mediante la consulta de información, la creación de materiales y la comunicación efectiva en los diferentes entornos de aprendizaje.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 5&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad andaluza y global, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medioambiente.&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Competencia específica 6&lt;/strong&gt;&lt;/p&gt;
-&lt;p style=&quot;text-align: justify;&quot;&gt;Comprender y valorar la ciencia como una construcción colectiva en continuo cambio y evolución, en la que no solo participan las personas dedicadas a la ciencia, sino que también requiere de una interacción con el resto de la sociedad, para obtener resultados que repercutan en el avance tecnológico, económico, ambiental y social.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Física y Química&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;1. Comprender y relacionar los motivos por los que ocurren los principales fenómenos fisicoquímicos del entorno, explicándolos en términos de las leyes y teorías científicas adecuadas, para resolver problemas con el fin de aplicarlas para mejorar la realidad cercana y la calidad de vida humana.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;2. Expresar las observaciones realizadas por el alumnado en forma de preguntas, formulando hipótesis, para explicarlas y demostrando dichas hipótesis a través de la experimentación científica, la indagación y la búsqueda de evidencias, para desarrollar los razonamientos propios del pensamiento científico y mejorar las destrezas en el uso de las metodologías científicas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;5. Utilizar las estrategias propias del trabajo colaborativo, potenciando el crecimiento entre iguales como base emprendedora de una comunidad científica crítica, ética y eficiente, para comprender la importancia de la ciencia en la mejora de la sociedad andaluza y global, las aplicaciones y repercusiones de los avances científicos, la preservación de la salud y la conservación sostenible del medioambiente.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Matemáticas&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;1. Interpretar, modelizar y resolver problemas de la vida cotidiana y propios de las matemáticas, aplicando diferentes estrategias y formas de razonamiento, para explorar distintas maneras de proceder y obtener posibles soluciones.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;4. Utilizar los principios del pensamiento computacional organizando datos, descomponiendo en partes, reconociendo patrones, interpretando, modificando y creando algoritmos para modelizar situaciones y resolver problemas de forma eficaz.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;6. Identificar las matemáticas implicadas en otras materias, en situaciones reales y en el entorno, susceptibles de ser abordadas en términos matemáticos, interrelacionando conceptos y procedimientos, para aplicarlos en situaciones diversas.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;strong&gt;Tecnología y Digitalización&lt;/strong&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;1. Buscar y seleccionar la información adecuada proveniente de diversas fuentes, de manera crítica y segura, aplicando procesos de investigación, métodos de análisis de productos y experimentando con herramientas de simulación, para definir problemas tecnológicos e iniciar procesos de creación de soluciones a partir de la información obtenida.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;2. Abordar problemas tecnológicos con autonomía y actitud creativa, aplicando conocimientos interdisciplinares y trabajando de forma cooperativa y colaborativa, para diseñar y planificar soluciones a un problema o necesidad de forma eficaz, innovadora y sostenible.&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;7. Hacer un uso responsable y ético de la tecnología, mostrando interés por un desarrollo sostenible, identificando sus repercusiones y valorando la contribución de las tecnologías emergentes para identificar las aportaciones y el impacto del desarrollo tecnológico en la sociedad y en el entorno, contextualizando sus aplicaciones en nuestra comunidad.&lt;/p&gt;
 &lt;h2&gt;Criterios de evaluación&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Física y Química&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;1.1. Identificar, comprender y explicar los fenómenos fisicoquímicos cotidianos más relevantes, a partir de los principios, teorías y leyes científicas adecuadas, expresándolos, de manera argumentada, utilizando diversidad de soportes y medios de comunicación.&lt;/p&gt;
 &lt;p&gt;1.2. Resolver los problemas fisicoquímicos planteados utilizando las leyes y teorías científicas adecuadas, razonando los procedimientos utilizados para encontrar las soluciones y expresando adecuadamente los resultados.&lt;/p&gt;
-&lt;p&gt;1.3. Reconocer y describir en el entorno inmediato situaciones problemáticas reales de índole científica y emprender iniciativas en las que la ciencia, y en particular la física y la química, pueden contribuir a su solución, analizando críticamente su impacto en la sociedad.&lt;/p&gt;
-&lt;p&gt;2.1. Emplear las metodologías propias de la ciencia para identificar y describir fenómenos a partir de cuestiones a las que se pueda dar respuesta a través de la indagación, la deducción, el trabajo experimental y el razonamiento lógico- matemático, diferenciándolas de aquellas pseudocientíficas que no admiten comprobación experimental.&lt;/p&gt;
-&lt;p&gt;3.1. Emplear datos en diferentes formatos para interpretar y comunicar información relativa a un proceso fisicoquímico concreto, relacionando entre sí lo que cada uno de ellos contiene, y extrayendo en cada caso lo más relevante para la resolución de un problema.&lt;/p&gt;
-&lt;p&gt;3.2. Utilizar adecuadamente las reglas básicas de la física y la química, incluyendo el uso de unidades de medida, las herramientas matemáticas y las reglas de nomenclatura, consiguiendo una comunicación efectiva con toda la comunidad científica.&lt;/p&gt;
-&lt;p&gt;4.2. Trabajar de forma adecuada y versátil con medios variados, tradicionales y digitales, en la consulta de información y la creación de contenidos, seleccionando con criterio las fuentes más fiables y desechando las menos adecuadas para la mejora del aprendizaje propio y colectivo.&lt;/p&gt;
-&lt;p&gt;5.2. Emprender, de forma guiada y de acuerdo a la metodología adecuada, proyectos científicos que involucren al alumnado en la mejora de la sociedad y que creen valor para el individuo y para la comunidad, tanto local como globalmente.&lt;/p&gt;
-&lt;p&gt;6.2. Detectar en el entorno las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad, entendiendo o la capacidad de la ciencia para darles solución sostenible a través de la implicación de todos los ciudadanos.&lt;/p&gt;
+&lt;p&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;2.1 Emplear las &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;metodologí&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;as&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;propias&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;de&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;la&lt;/span&gt;&lt;br role=&quot;presentation&quot; /&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ciencia para identificar y des&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;cribir&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;fenóm&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;enos&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;a&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;partir&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;de&lt;/span&gt;&lt;br role=&quot;presentation&quot; /&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;cuestiones&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;a&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;las&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;que&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;se&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;pue&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;da&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;dar&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;respuesta&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;a&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;travé&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;s&lt;/span&gt;&lt;br role=&quot;presentation&quot; /&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;de&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;la&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;indagació&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;n,&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;la&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;deduc&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ción&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;,&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;el&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;trabajo&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;experimen&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;tal&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;y&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;el&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;razonamiento&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ló&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;gico-&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;matemá&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;tico,&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;diferenciá&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ndolas &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;de&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;aquellas&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;pseudocientíficas &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;que no admiten comprobación&lt;/span&gt;&lt;br role=&quot;presentation&quot; /&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;experimental.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;6.2 Detectar en el entorno las necesidades tecnológicas, ambientales, económicas y sociales más importantes que demanda la sociedad, entendiendo la capacidad de la&lt;br /&gt;ciencia para darles solución sostenible a través de la implicación de todos los ciudadanos.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matemáticas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.1. Interpretar problemas matemáticos complejos, organizando y analizando los datos, estableciendo las relaciones entre ellos y comprendiendo las preguntas formuladas.&lt;/p&gt;
+&lt;p&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;6.1.&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;Reconocer &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;situaciones en diferentes con&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;textos&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;(personal,&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;escolar,&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;so&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;cial, cientí&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;fico y humaní&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;stico)&lt;/span&gt;&lt;br role=&quot;presentation&quot; /&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;susceptibles&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;de&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ser&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;formula&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;das&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;y&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;resueltas&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;mediante&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;he&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;rramientas&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;y&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;estrategias&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ma&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;temá&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ticas, estableciendo cone&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;xiones entre el mundo real y las &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;matemá&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;ticas, usando los pro&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;cesos&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;inherentes&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;a&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;la&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt; &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;investi&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;gació&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;n cientí&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;fica y matemá&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;tica: &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;inferir, medir, comunicar, cla&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;sificar y predecir y aplicando &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;distintos procedimientos en la &lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;resolució&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;n de problemas en si&lt;/span&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;tuaciones diversas.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span role=&quot;presentation&quot; dir=&quot;ltr&quot;&gt;4.2 Modelizar situaciones de la vida cotidiana&lt;br /&gt;y resolver problemas de forma eficaz, interpretando y modificando algoritmos, creando modelos abstractos de situaciones cotidianas, para su automatización, modelización y codificación en un lenguaje fácil de&lt;br /&gt;interpretar por un sistema informático.&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tecnología y Digitalización&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;1.1. Definir problemas o necesidades planteadas, buscando y contrastando información procedente de diferentes fuentes de manera crítica y segura, evaluando su fiabilidad y pertinencia. &lt;/p&gt;
+&lt;p&gt;2.1 Idear y diseñar soluciones eficaces, innovadoras y sostenibles a problemas definidos, aplicando conceptos, técnicas y procedimientos interdisciplinares, así como criterios de sostenibilidad, con actitud emprendedora, perseverante y creativa.&lt;/p&gt;
+&lt;p&gt;7.2 Identificar las aportaciones básicas de las tecnologías emergentes al bienestar, a la igualdad social y a la disminución del impacto ambiental del entorno más cercano, en especial de Andalucía, haciendo un uso responsable y ético de las mismas. &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;/strong&gt;&lt;/p&gt;
 &lt;h2&gt;Saberes básicos&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;A. Las destrezas científicas básicas&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Física y Química&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;FYQ.3.A.2. Trabajo experimental y proyectos de investigación.&lt;/li&gt;
-&lt;li&gt;FYQ.3.A.3. Diversos entornos y recursos de aprendizaje científico.&lt;/li&gt;
 &lt;li&gt;FYQ.3.A.4. Uso del lenguaje científico, incluyendo el manejo adecuado de sistemas de unidades.&lt;/li&gt;
-&lt;li&gt;FYQ.3.A.5. Interpretación y producción de información científica en diferentes formatos.&lt;/li&gt;
+&lt;li&gt;FYQ.3.A.5 Interpretación y producción de información científica en diferentes formatos y a partir de diferentes medios para desarrollar un criterio propio basado en lo que el pensamiento científico aporta a la mejora de la sociedad para hacerla más justa, equitativa e igualitaria.&lt;/li&gt;
+&lt;li&gt;FYQ.3.C.2. Elaboración fundamentada de hipótesis sobre medioambiente y sostenibilidad a partir de las diferencias entre fuentes de energía renovables y no renovables.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;B. La materia&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;FYQ.3.B.1. Aplicación de los conocimientos sobre la estructura atómica de la materia.&lt;/li&gt;
+&lt;li&gt;FYQ.3.E.1. Interpretación de las reacciones químicas a nivel macroscópico y microscópico, en términos del modelo atómico-molecular de la materia y de la teoría de colisiones, para explicar las relaciones de la química con el medioambiente, la tecnología y la sociedad.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;C. La energía&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Matemáticas&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;FYQ.3.C.2. Elaboración fundamentada de hipótesis sobre medioambiente y sostenibilidad a partir de las diferencias entre fuentes de energía renovables y no renovables. &lt;/li&gt;
-&lt;li&gt;FYQ.3.C.3. Consideración de la naturaleza eléctrica de la materia... para desarrollar conciencia sobre la necesidad del ahorro energético y la conservación sostenible del medioambiente.&lt;/li&gt;
+&lt;li&gt;MAT.3.A.2.1.  Números grandes y pequeños: la notación exponencial y científica y el uso de calculadora.&lt;/li&gt;
+&lt;li&gt;MAT.3.B.2.1. Longitudes, áreas y volúmenes en figuras planas y tridimensionales.&lt;/li&gt;
+&lt;li&gt;MAT.3.C.4.1. Modelización geométrica: relaciones numéricas y algebraicas en la resolución de problemas&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;E. El cambio&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Tecnología y Digitalización&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;FYQ.3.A.3. Interpretación de las reacciones químicas a nivel macroscópico y microscópico.&lt;/li&gt;
+&lt;li&gt;TYD.3.A.5. Emprendimiento, resiliencia, perseverancia y creatividad para abordar problemas sencillos desde una perspectiva interdisciplinar.&lt;/li&gt;
+&lt;li&gt;TYD.3.B.3. Herramientas digitales para la elaboración, publicación y difusión de documentación técnica e información multimedia relativa a proyectos sencillos.&lt;/li&gt;
+&lt;li&gt;TYD.3.E.1. Desarrollo tecnológico: creatividad, innovación, investigación, obsolescencia e impacto social y ambiental. Ética y aplicaciones de las tecnologías emergentes. La tecnología en Andalucía. &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/div&gt;"></unicode>
                                        <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
@@ -4680,7 +4687,7 @@ window.MathJax = {
                                  <string role="key" value="exportType"></string>
                                  <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
-                                 <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Conexi%C3%B3n%20curricular"></string>
+                                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Conexi%C3%B3n%20curricular"></string>
                                  <string role="key" value="parent"></string>
                                  <reference key="67"></reference>
                                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -4837,7 +4844,7 @@ window.MathJax = {
                                  <string role="key" value="exportType"></string>
                                  <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
-                                 <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Estrategias%20metodol%C3%B3gicas"></string>
+                                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Estrategias%20metodol%C3%B3gicas"></string>
                                  <string role="key" value="parent"></string>
                                  <reference key="67"></reference>
                                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -5011,7 +5018,7 @@ window.MathJax = {
                                  <string role="key" value="exportType"></string>
                                  <string value="website"></string>
                                  <string role="key" value="last_full_node_path"></string>
-                                 <string value="exe-node:Reduce%20tu%20huella:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20la%20situaci%C3%B3n%20de%20aprendizaje"></string>
+                                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Gu%C3%ADa%20did%C3%A1ctica:Evaluaci%C3%B3n%20de%20la%20situaci%C3%B3n%20de%20aprendizaje"></string>
                                  <string role="key" value="parent"></string>
                                  <reference key="67"></reference>
                                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -5202,7 +5209,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281570"></int>
+                              <int value="281620"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5216,7 +5223,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="222_223_2.11"></unicode>
+                            <unicode value="222_223_2.13"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="90">
                              <dictionary>
@@ -5227,7 +5234,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="efecto_invernadero.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\efecto_invernadero.png"></string>
+                              <string value="/tmp/tmpcathMI/efecto_invernadero.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="6fac9a2a3edad7f17bf7362818771648"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5256,7 +5263,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="12"></int>
+                       <int value="14"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="87"></reference>
                       </dictionary>
@@ -5436,7 +5443,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281558"></int>
+                              <int value="281630"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5450,7 +5457,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="223_224_2.11"></unicode>
+                            <unicode value="223_224_2.13"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="93">
                              <dictionary>
@@ -5461,7 +5468,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="annual-co2-emissions-per-country.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\annual-co2-emissions-per-country.png"></string>
+                              <string value="/tmp/tmpcathMI/annual-co2-emissions-per-country.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="3a861fb5ec0644c4a3d1ec880d4dcf95"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5490,7 +5497,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="12"></int>
+                       <int value="14"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="87"></reference>
                       </dictionary>
@@ -5623,7 +5630,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281578"></int>
+                              <int value="281615"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5637,7 +5644,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="224_225_2.17"></unicode>
+                            <unicode value="224_225_2.21"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="96">
                              <dictionary>
@@ -5646,11 +5653,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="indice_aridez_Espa_C3_B1a1.jpg"></string>
+                              <string value="indice_aridez_Espa_C3_B1a2.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\indice_aridez_Espa_C3_B1a1.jpg"></string>
+                              <string value="/tmp/tmpcathMI/indice_aridez_Espa_C3_B1a2.jpg"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="464632bb2ad3322f860670fb46416bd4"></string>
+                              <string value="d120842d8f550561881735caaa010727"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -5675,7 +5682,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281579"></int>
+                              <int value="281641"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5689,7 +5696,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="224_225_2.18"></unicode>
+                            <unicode value="224_225_2.22"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="97">
                              <dictionary>
@@ -5698,11 +5705,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="indice_aridez_Espa_C3_B1a2.jpg"></string>
+                              <string value="indice_aridez_Espa_C3_B1a1.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\indice_aridez_Espa_C3_B1a2.jpg"></string>
+                              <string value="/tmp/tmpcathMI/indice_aridez_Espa_C3_B1a1.jpg"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="d120842d8f550561881735caaa010727"></string>
+                              <string value="464632bb2ad3322f860670fb46416bd4"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -5729,7 +5736,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="19"></int>
+                       <int value="23"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="87"></reference>
                       </dictionary>
@@ -5859,7 +5866,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281572"></int>
+                              <int value="281623"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5873,7 +5880,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="225_226_2.24"></unicode>
+                            <unicode value="225_226_2.28"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="100">
                              <dictionary>
@@ -5884,7 +5891,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="Glosario.pdf"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Glosario.pdf"></string>
+                              <string value="/tmp/tmpcathMI/Glosario.pdf"></string>
                               <string role="key" value="checksum"></string>
                               <string value="5dbd2a64505968e91ae59cbace674f5c"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5911,7 +5918,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281577"></int>
+                              <int value="281642"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -5925,7 +5932,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="225_226_2.25"></unicode>
+                            <unicode value="225_226_2.29"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="101">
                              <dictionary>
@@ -5936,7 +5943,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="Ideas_Previas.pdf"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Ideas_Previas.pdf"></string>
+                              <string value="/tmp/tmpcathMI/Ideas_Previas.pdf"></string>
                               <string role="key" value="checksum"></string>
                               <string value="cb42e9b3ffbe80255d38a54a9968ff38"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -5965,7 +5972,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="26"></int>
+                       <int value="30"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="87"></reference>
                       </dictionary>
@@ -6010,7 +6017,7 @@ window.MathJax = {
                  <string role="key" value="exportType"></string>
                  <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
-                 <string value="exe-node:Reduce%20tu%20huella:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico"></string>
+                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:1.%20Introducci%C3%B3n%20al%20cambio%20clim%C3%A1tico"></string>
                  <string role="key" value="parent"></string>
                  <reference key="45"></reference>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -6021,7 +6028,7 @@ window.MathJax = {
                  <list></list>
                 </dictionary>
                </instance>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:2.%20Funda%20tu%20empresa#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:2.%20Funda%20tu%20empresa#auto_top"></unicode>
                <instance class="exe.engine.node.Node" reference="104">
                 <dictionary>
                  <string role="key" value="_title"></string>
@@ -6133,7 +6140,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281580"></int>
+                              <int value="281625"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -6147,7 +6154,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="227_228_2.8"></unicode>
+                            <unicode value="227_228_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="105">
                              <dictionary>
@@ -6158,7 +6165,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="marco_estrategico_clima.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\marco_estrategico_clima.png"></string>
+                              <string value="/tmp/tmpcathMI/marco_estrategico_clima.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="fec20485f1434c25f4f891b3597d1cb9"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6187,7 +6194,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="9"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="104"></reference>
                       </dictionary>
@@ -6362,7 +6369,7 @@ window.MathJax = {
                  <string role="key" value="exportType"></string>
                  <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
-                 <string value="exe-node:Reduce%20tu%20huella:Actividades:2.%20Funda%20tu%20empresa"></string>
+                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:2.%20Funda%20tu%20empresa"></string>
                  <string role="key" value="parent"></string>
                  <reference key="45"></reference>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -6373,7 +6380,7 @@ window.MathJax = {
                  <list></list>
                 </dictionary>
                </instance>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:3.%20Huella%20de%20carbono#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:3.%20Huella%20de%20carbono#auto_top"></unicode>
                <instance class="exe.engine.node.Node" reference="110">
                 <dictionary>
                  <string role="key" value="_title"></string>
@@ -6524,7 +6531,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281574"></int>
+                              <int value="281619"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -6538,7 +6545,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="230_231_2.7"></unicode>
+                            <unicode value="230_231_2.9"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="111">
                              <dictionary>
@@ -6549,7 +6556,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="huella_carbono.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\huella_carbono.png"></string>
+                              <string value="/tmp/tmpcathMI/huella_carbono.png"></string>
                               <string role="key" value="checksum"></string>
                               <string value="1a1d3b5d67b04082c967a7cc31d8b3d2"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6578,7 +6585,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="8"></int>
+                       <int value="10"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="110"></reference>
                       </dictionary>
@@ -6870,7 +6877,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281560"></int>
+                              <int value="281637"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -6884,7 +6891,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="235_233_2.8"></unicode>
+                            <unicode value="235_233_2.10"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="116">
                              <dictionary>
@@ -6895,7 +6902,7 @@ window.MathJax = {
                               <string role="key" value="_storageName"></string>
                               <string value="Calculadora_huella_carbono.webp"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\Calculadora_huella_carbono.webp"></string>
+                              <string value="/tmp/tmpcathMI/Calculadora_huella_carbono.webp"></string>
                               <string role="key" value="checksum"></string>
                               <string value="792d6f31e1203e2e909e84d4c3d68d9a"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
@@ -6924,7 +6931,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="9"></int>
+                       <int value="11"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="110"></reference>
                       </dictionary>
@@ -7100,7 +7107,7 @@ window.MathJax = {
                  <string role="key" value="exportType"></string>
                  <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
-                 <string value="exe-node:Reduce%20tu%20huella:Actividades:3.%20Huella%20de%20carbono"></string>
+                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:3.%20Huella%20de%20carbono"></string>
                  <string role="key" value="parent"></string>
                  <reference key="45"></reference>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -7111,7 +7118,7 @@ window.MathJax = {
                  <list></list>
                 </dictionary>
                </instance>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica#auto_top"></unicode>
                <instance class="exe.engine.node.Node" reference="121">
                 <dictionary>
                  <string role="key" value="_title"></string>
@@ -7371,7 +7378,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281566"></int>
+                              <int value="281627"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -7385,7 +7392,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="241_264_2.8"></unicode>
+                            <unicode value="241_264_2.12"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="124">
                              <dictionary>
@@ -7394,11 +7401,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="consumo_electrodomesticos.png"></string>
+                              <string value="etiqueta_energetica.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\consumo_electrodomesticos.png"></string>
+                              <string value="/tmp/tmpcathMI/etiqueta_energetica.png"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="461b2dab240786549473a2cd3d14c2ab"></string>
+                              <string value="9740d276d0cf18e66da3bf95a671cb18"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -7423,7 +7430,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281571"></int>
+                              <int value="281634"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -7437,7 +7444,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="241_264_2.9"></unicode>
+                            <unicode value="241_264_2.13"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="125">
                              <dictionary>
@@ -7446,11 +7453,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="etiqueta_energetica.png"></string>
+                              <string value="consumo_electrodomesticos.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\etiqueta_energetica.png"></string>
+                              <string value="/tmp/tmpcathMI/consumo_electrodomesticos.png"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="9740d276d0cf18e66da3bf95a671cb18"></string>
+                              <string value="461b2dab240786549473a2cd3d14c2ab"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -7477,7 +7484,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="10"></int>
+                       <int value="14"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="121"></reference>
                       </dictionary>
@@ -7660,7 +7667,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281569"></int>
+                              <int value="281624"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -7674,7 +7681,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="239_262_2.11"></unicode>
+                            <unicode value="239_262_2.15"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="128">
                              <dictionary>
@@ -7683,11 +7690,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="distribucion_fuentes_energia_2023.png"></string>
+                              <string value="placas_solares_tejado.jpg"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\distribucion_fuentes_energia_2023.png"></string>
+                              <string value="/tmp/tmpcathMI/placas_solares_tejado.jpg"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="ca9083d57e89237ee654045c5bd495b4"></string>
+                              <string value="23c9801caac6b9cb8f4fff814711b9af"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -7712,7 +7719,7 @@ window.MathJax = {
                             <instance class="exe.engine.field.TextField">
                              <dictionary>
                               <string role="key" value="_id"></string>
-                              <int value="281583"></int>
+                              <int value="281633"></int>
                               <string role="key" value="_idevice"></string>
                               <none></none>
                               <string role="key" value="_instruc"></string>
@@ -7726,7 +7733,7 @@ window.MathJax = {
                              </dictionary>
                             </instance>
                             <string role="key" value="_id"></string>
-                            <unicode value="239_262_2.12"></unicode>
+                            <unicode value="239_262_2.16"></unicode>
                             <string role="key" value="_imageResource"></string>
                             <instance class="exe.engine.resource.Resource" reference="129">
                              <dictionary>
@@ -7735,11 +7742,11 @@ window.MathJax = {
                               <string role="key" value="_package"></string>
                               <reference key="2"></reference>
                               <string role="key" value="_storageName"></string>
-                              <string value="placas_solares_tejado.jpg"></string>
+                              <string value="distribucion_fuentes_energia_2023.png"></string>
                               <string role="key" value="_userName"></string>
-                              <string value="c:\\users\\alfon\\appdata\\local\\temp\\tmp8wslct\\placas_solares_tejado.jpg"></string>
+                              <string value="/tmp/tmpcathMI/distribucion_fuentes_energia_2023.png"></string>
                               <string role="key" value="checksum"></string>
-                              <string value="23c9801caac6b9cb8f4fff814711b9af"></string>
+                              <string value="ca9083d57e89237ee654045c5bd495b4"></string>
                               <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                               <int value="2"></int>
                               <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -7766,7 +7773,7 @@ window.MathJax = {
                        <string role="key" value="intlinks_to_anchors"></string>
                        <dictionary></dictionary>
                        <string role="key" value="nextImageId"></string>
-                       <int value="13"></int>
+                       <int value="17"></int>
                        <string role="key" value="parentNode"></string>
                        <reference key="121"></reference>
                       </dictionary>
@@ -7811,7 +7818,7 @@ window.MathJax = {
                  <string role="key" value="exportType"></string>
                  <string value="website"></string>
                  <string role="key" value="last_full_node_path"></string>
-                 <string value="exe-node:Reduce%20tu%20huella:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica"></string>
+                 <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:4.%20Sostenibilidad%20energ%C3%A9tica"></string>
                  <string role="key" value="parent"></string>
                  <reference key="45"></reference>
                  <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -7822,9 +7829,9 @@ window.MathJax = {
                  <list></list>
                 </dictionary>
                </instance>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:5.%20Resultados#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:5.%20Resultados#auto_top"></unicode>
                <reference key="36"></reference>
-               <unicode role="key" value="exe-node:Reduce%20tu%20huella:Actividades:6.%20Presentaci%C3%B3n%20oral#auto_top"></unicode>
+               <unicode role="key" value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades:6.%20Presentaci%C3%B3n%20oral#auto_top"></unicode>
                <reference key="52"></reference>
               </dictionary>
               <string role="key" value="nextImageId"></string>
@@ -7870,7 +7877,7 @@ window.MathJax = {
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Reduce%20tu%20huella:Actividades"></string>
+        <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Actividades"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -8056,7 +8063,7 @@ window.MathJax = {
         <string role="key" value="exportType"></string>
         <string value="website"></string>
         <string role="key" value="last_full_node_path"></string>
-        <string value="exe-node:Reduce%20tu%20huella:Cr%C3%A9ditos%20y%20descarga"></string>
+        <string value="exe-node:Reduce%20tu%20huella%20de%20carbono:Cr%C3%A9ditos%20y%20descarga"></string>
         <string role="key" value="parent"></string>
         <reference key="4"></reference>
         <string role="key" value="top_anchors_linked_from_fields"></string>
@@ -8129,7 +8136,7 @@ window.MathJax = {
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="132"></reference>
+  <reference key="76"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -8160,7 +8167,7 @@ window.MathJax = {
     <string role="key" value="subject"></string>
     <unicode value=""></unicode>
     <string role="key" value="title"></string>
-    <unicode value="Reduce tu huella"></unicode>
+    <unicode value="Reduce tu huella de carbono"></unicode>
     <string role="key" value="type"></string>
     <unicode value=""></unicode>
    </dictionary>
@@ -8446,7 +8453,7 @@ window.MathJax = {
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Reduce tu huella"></string>
+           <string value="Reduce tu huella de carbono"></string>
           </dictionary>
          </instance>
         </list>
@@ -9529,7 +9536,7 @@ window.MathJax = {
            <string role="key" value="language"></string>
            <string value="es"></string>
            <string role="key" value="valueOf_"></string>
-           <string value="Reduce tu huella"></string>
+           <string value="Reduce tu huella de carbono"></string>
           </dictionary>
          </instance>
         </list>
@@ -10132,15 +10139,15 @@ window.MathJax = {
    </list>
    <string role="key" value="23c9801caac6b9cb8f4fff814711b9af"></string>
    <list>
-    <reference key="129"></reference>
+    <reference key="128"></reference>
    </list>
    <string role="key" value="2dd824ac4e741199ad1365b9df64ee14"></string>
    <list>
-    <reference key="28"></reference>
+    <reference key="32"></reference>
    </list>
    <string role="key" value="2e8b18574f2e27eb4d559206b741cf35"></string>
    <list>
-    <reference key="5"></reference>
+    <reference key="6"></reference>
    </list>
    <string role="key" value="3a861fb5ec0644c4a3d1ec880d4dcf95"></string>
    <list>
@@ -10148,15 +10155,15 @@ window.MathJax = {
    </list>
    <string role="key" value="415f6b43bd8ffffec6055d39ea96df5e"></string>
    <list>
-    <reference key="9"></reference>
+    <reference key="5"></reference>
    </list>
    <string role="key" value="461b2dab240786549473a2cd3d14c2ab"></string>
    <list>
-    <reference key="124"></reference>
+    <reference key="125"></reference>
    </list>
    <string role="key" value="464632bb2ad3322f860670fb46416bd4"></string>
    <list>
-    <reference key="96"></reference>
+    <reference key="97"></reference>
    </list>
    <string role="key" value="5dbd2a64505968e91ae59cbace674f5c"></string>
    <list>
@@ -10164,15 +10171,15 @@ window.MathJax = {
    </list>
    <string role="key" value="5dcd787e04bb24da80ec7db66c0151e5"></string>
    <list>
-    <reference key="29"></reference>
+    <reference key="30"></reference>
    </list>
    <string role="key" value="64b895d39e5992a4918e58529dc2cd3e"></string>
    <list>
-    <reference key="32"></reference>
+    <reference key="29"></reference>
    </list>
    <string role="key" value="65fa96b0953c66f83039d06ce4499e54"></string>
    <list>
-    <reference key="6"></reference>
+    <reference key="8"></reference>
    </list>
    <string role="key" value="6fac9a2a3edad7f17bf7362818771648"></string>
    <list>
@@ -10188,11 +10195,11 @@ window.MathJax = {
    </list>
    <string role="key" value="9740d276d0cf18e66da3bf95a671cb18"></string>
    <list>
-    <reference key="125"></reference>
+    <reference key="124"></reference>
    </list>
    <string role="key" value="9e2faf8b1f72e19d697a1bf0bf11cc57"></string>
    <list>
-    <reference key="63"></reference>
+    <reference key="62"></reference>
    </list>
    <string role="key" value="b85d8b38415c8c364281d1cc9859a908"></string>
    <list>
@@ -10200,11 +10207,11 @@ window.MathJax = {
    </list>
    <string role="key" value="bafc00c6d77b95c3471b963fb026b960"></string>
    <list>
-    <reference key="31"></reference>
+    <reference key="28"></reference>
    </list>
    <string role="key" value="c2155aa11f2ecf172146dbfb71b934b4"></string>
    <list>
-    <reference key="30"></reference>
+    <reference key="31"></reference>
    </list>
    <string role="key" value="c5442673d6c0a1979c1b717a7d17c541"></string>
    <list>
@@ -10212,11 +10219,11 @@ window.MathJax = {
    </list>
    <string role="key" value="c8b7a7f0aba34ecc5165b1b4a4760e09"></string>
    <list>
-    <reference key="8"></reference>
+    <reference key="9"></reference>
    </list>
    <string role="key" value="ca9083d57e89237ee654045c5bd495b4"></string>
    <list>
-    <reference key="128"></reference>
+    <reference key="129"></reference>
    </list>
    <string role="key" value="cb42e9b3ffbe80255d38a54a9968ff38"></string>
    <list>
@@ -10224,15 +10231,15 @@ window.MathJax = {
    </list>
    <string role="key" value="d120842d8f550561881735caaa010727"></string>
    <list>
-    <reference key="97"></reference>
+    <reference key="96"></reference>
    </list>
    <string role="key" value="d6081ab4d30c872d33626c2776e37adc"></string>
    <list>
-    <reference key="62"></reference>
+    <reference key="64"></reference>
    </list>
    <string role="key" value="da2122546e7e3eb3bde7ed62f61805bd"></string>
    <list>
-    <reference key="64"></reference>
+    <reference key="63"></reference>
    </list>
    <string role="key" value="fec20485f1434c25f4f891b3597d1cb9"></string>
    <list>
